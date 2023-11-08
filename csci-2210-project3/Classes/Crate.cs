@@ -1,5 +1,5 @@
 using System.Text;
-namespace Classes
+namespace csci_2210_project3.Classes
 {
     /// <summary>
     /// A class that represents a crate for the truck class

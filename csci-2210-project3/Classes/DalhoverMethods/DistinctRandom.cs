@@ -1,6 +1,6 @@
 using System.Runtime.CompilerServices;
 
-namespace Classes.DalhoverClasses.DistinctRand
+namespace csci_2210_project3.Classes.DalhoverMethods
 {
     public class DistinctRandom
     {
@@ -34,8 +34,8 @@ namespace Classes.DalhoverClasses.DistinctRand
         {
             this.minValue = minValue;
             this.maxValue = maxValue;
-            this.options = GenerateRandomOptions(minValue, maxValue);
-            this.optionsIndex = -1;
+            options = GenerateRandomOptions(minValue, maxValue);
+            optionsIndex = -1;
         }
         /// <summary>
         /// Used to give the user their next random number
@@ -44,9 +44,9 @@ namespace Classes.DalhoverClasses.DistinctRand
         public int Next()
         {
             Random rand = new Random();
-            this.optionsIndex = rand.Next(this.minValue, this.options.Count);
-            int randomNumber = this.options[this.optionsIndex];
-            this.options.RemoveAt(this.optionsIndex);
+            optionsIndex = rand.Next(minValue, options.Count);
+            int randomNumber = options[optionsIndex];
+            options.RemoveAt(optionsIndex);
             return randomNumber;
 
         }

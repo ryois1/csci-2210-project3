@@ -1,7 +1,8 @@
 using System.ComponentModel;
-using Classes.DalhoverClasses.DistinctRand;
-using Classes.Drivers;
-namespace Classes
+using csci_2210_project3.Classes.DalhoverMethods;
+using csci_2210_project3.Classes.Drivers;
+
+namespace csci_2210_project3.Classes
 {
     public class Truck
     {
@@ -70,7 +71,7 @@ namespace Classes
         {
             string path = Directory.GetCurrentDirectory();
             path += "\\FakeNames\\CompanyNames.txt";
-            System.Console.WriteLine(path);
+            Console.WriteLine(path);
             StreamReader sr = new StreamReader(path);
             string[] companies = (await sr.ReadToEndAsync()).Split('\n');
             return companies;

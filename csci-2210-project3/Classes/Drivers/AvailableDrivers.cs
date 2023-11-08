@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Diagnostics.Contracts;
 
-namespace Classes.Drivers
+namespace csci_2210_project3.Classes.Drivers
 {
     public class AvailableDrivers : IEnumerable<Driver>
     {
@@ -35,7 +35,7 @@ namespace Classes.Drivers
             for (int i = 0; i < 50; i++)
             {
                 string? line = await sr.ReadLineAsync();
-                if (!String.IsNullOrEmpty(line))
+                if (!string.IsNullOrEmpty(line))
                 {
                     drivers.AddDriver(new Driver(line.Split(',')));
                 }
