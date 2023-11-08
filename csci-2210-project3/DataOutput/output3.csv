@@ -1,0 +1,67 @@
+Time Increment, Driver's name, Company Name, CrateID, Crate Value, Status
+1,Holly "Haulin' Queen" Hayes,DinoDispatch,02218579,287.94,UNLOADED
+2,Holly "Haulin' Queen" Hayes,DinoDispatch,01140828,326.76,UNLOADED
+3,Holly "Haulin' Queen" Hayes,DinoDispatch,05813955,84.67,UNLOADED
+3,Doug "Dangerous Curve" Duncan,Robin Hood Couriers,04766250,281.85,UNLOADED
+4,Holly "Haulin' Queen" Hayes,DinoDispatch,25446294,370.70,UNLOADED
+4,Doug "Dangerous Curve" Duncan,Robin Hood Couriers,31341000,114.39,UNLOADED
+5,Holly "Haulin' Queen" Hayes,DinoDispatch,55273983,276.18,UNLOADED
+5,Doug "Dangerous Curve" Duncan,Robin Hood Couriers,02910509,178.82,UNLOADED
+6,Holly "Haulin' Queen" Hayes,DinoDispatch,67986124,284.03,UNLOADED AND NO REPLACEMENT
+6,Doug "Dangerous Curve" Duncan,Robin Hood Couriers,08015248,294.56,UNLOADED
+7,Doug "Dangerous Curve" Duncan,Robin Hood Couriers,00821627,54.35,UNLOADED
+8,Doug "Dangerous Curve" Duncan,Robin Hood Couriers,16151773,386.36,UNLOADED
+9,Doug "Dangerous Curve" Duncan,Robin Hood Couriers,08957810,141.50,UNLOADED
+10,Doug "Dangerous Curve" Duncan,Robin Hood Couriers,17357826,193.56,UNLOADED AND NO REPLACEMENT
+11,Tim "Tire Tamer" Thompson,ThunderTruck Express,95570009,408.39,UNLOADED
+12,Tim "Tire Tamer" Thompson,ThunderTruck Express,37261339,354.19,UNLOADED
+13,Tim "Tire Tamer" Thompson,ThunderTruck Express,43308852,448.25,UNLOADED
+14,Tim "Tire Tamer" Thompson,ThunderTruck Express,07068244,454.35,UNLOADED AND NO REPLACEMENT
+15,Tara "Turnpike Titan" Turner,EcoFlower Express,77936687,243.71,UNLOADED
+16,Tara "Turnpike Titan" Turner,EcoFlower Express,22992609,256.58,UNLOADED
+17,Tara "Turnpike Titan" Turner,EcoFlower Express,72449370,451.16,UNLOADED
+18,Tara "Turnpike Titan" Turner,EcoFlower Express,25394632,268.43,UNLOADED
+19,Tara "Turnpike Titan" Turner,EcoFlower Express,65097929,202.38,UNLOADED
+19,Bill "Big Hauler" Bennett,BubbleWrap Express,66915751,372.91,UNLOADED
+20,Tara "Turnpike Titan" Turner,EcoFlower Express,32914177,158.42,UNLOADED
+20,Bill "Big Hauler" Bennett,BubbleWrap Express,96461889,439.91,UNLOADED
+20,Nancy "Nitro" Nelson,ZippityZoo Shipments,88925835,87.22,UNLOADED
+21,Tara "Turnpike Titan" Turner,EcoFlower Express,56116484,337.51,UNLOADED
+21,Bill "Big Hauler" Bennett,BubbleWrap Express,87528201,384.90,UNLOADED
+21,Nancy "Nitro" Nelson,ZippityZoo Shipments,73693033,258.59,UNLOADED
+22,Tara "Turnpike Titan" Turner,EcoFlower Express,07005501,185.58,UNLOADED AND NO REPLACEMENT
+22,Bill "Big Hauler" Bennett,BubbleWrap Express,60400063,277.48,UNLOADED
+22,Nancy "Nitro" Nelson,ZippityZoo Shipments,12578926,376.91,UNLOADED
+23,Ron "Road Roller" Robinson,SwiftShip Express,24470682,259.62,UNLOADED
+23,Bill "Big Hauler" Bennett,BubbleWrap Express,66064169,488.66,UNLOADED AND NO REPLACEMENT
+23,Nancy "Nitro" Nelson,ZippityZoo Shipments,57712290,470.72,UNLOADED
+24,Ron "Road Roller" Robinson,SwiftShip Express,10391340,406.27,UNLOADED
+24,Carla "Gearshift" Greene,DinoDispatch,39018144,135.16,UNLOADED
+24,Nancy "Nitro" Nelson,ZippityZoo Shipments,85822596,209.16,UNLOADED
+25,Ron "Road Roller" Robinson,SwiftShip Express,34418894,82.04,UNLOADED
+25,Carla "Gearshift" Greene,DinoDispatch,32029677,192.76,UNLOADED
+25,Nancy "Nitro" Nelson,ZippityZoo Shipments,74907288,482.88,UNLOADED
+26,Ron "Road Roller" Robinson,SwiftShip Express,67704724,63.09,UNLOADED
+26,Carla "Gearshift" Greene,DinoDispatch,44373448,299.11,UNLOADED AND NO REPLACEMENT
+26,Nancy "Nitro" Nelson,ZippityZoo Shipments,66383230,345.39,UNLOADED
+27,Ron "Road Roller" Robinson,SwiftShip Express,37303360,65.65,UNLOADED
+27,Nancy "Nitro" Nelson,ZippityZoo Shipments,99761741,88.63,UNLOADED
+28,Ron "Road Roller" Robinson,SwiftShip Express,29305682,308.34,UNLOADED
+28,Nancy "Nitro" Nelson,Rainbow Courier,52787528,308.83,UNLOADED
+28,Nancy "Nitro" Nelson,ZippityZoo Shipments,09844952,137.79,UNLOADED AND NO REPLACEMENT
+29,Ron "Road Roller" Robinson,SwiftShip Express,21426226,305.00,UNLOADED AND NO REPLACEMENT
+29,Nancy "Nitro" Nelson,Rainbow Courier,47525294,451.42,UNLOADED
+30,Roger "Rubber Roadster" Reynolds,Genie in a Parcel,42645500,459.57,UNLOADED
+30,Nancy "Nitro" Nelson,Rainbow Courier,77014216,371.34,UNLOADED AND NO REPLACEMENT
+31,Roger "Rubber Roadster" Reynolds,Genie in a Parcel,28670124,316.08,UNLOADED
+32,Roger "Rubber Roadster" Reynolds,Genie in a Parcel,63637740,469.04,UNLOADED
+33,Roger "Rubber Roadster" Reynolds,Genie in a Parcel,02559084,118.01,UNLOADED
+34,Roger "Rubber Roadster" Reynolds,Genie in a Parcel,17074602,188.46,UNLOADED
+35,Roger "Rubber Roadster" Reynolds,Genie in a Parcel,15916414,494.24,UNLOADED
+36,Roger "Rubber Roadster" Reynolds,Genie in a Parcel,26527573,473.67,UNLOADED
+37,Roger "Rubber Roadster" Reynolds,Genie in a Parcel,09990784,441.64,UNLOADED
+38,Roger "Rubber Roadster" Reynolds,Genie in a Parcel,06856534,409.45,UNLOADED AND NO REPLACEMENT
+45,Judy "Junction Jockey" Johnson,ApolloAstronautics,58668089,242.33,UNLOADED
+46,Judy "Junction Jockey" Johnson,ApolloAstronautics,97265690,135.42,UNLOADED
+47,Judy "Junction Jockey" Johnson,ApolloAstronautics,47632661,354.01,UNLOADED
+47,Doug "Dangerous Curve" Duncan,StellarDelivery,44146607,294.31,UNLOADED

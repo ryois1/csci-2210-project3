@@ -6,20 +6,11 @@ namespace csci_2210_project3.Classes
     /// </summary>
     public class Crate
     {
-        /// <summary>
-        /// The unique identifier of the crate
-        /// </summary>
-        public Guid Id { get; private set; }
-        /// <summary>
-        /// The price of the crate
-        /// </summary>
+        public string Id { get; private set; }
         public double Price { get; private set; }
-        /// <summary>
-        /// Crate constructor
-        /// </summary>
         public Crate()
         {
-            Id = Guid.NewGuid();
+            Id = GenerateId();
             Price = GeneratePrice();
         }
         /// <summary>
@@ -33,5 +24,15 @@ namespace csci_2210_project3.Classes
             double centValue = rand.Next(0, 100) / 100.0;
             return dollarValue + centValue;
         }
+
+        private string GenerateId(){
+            Random rand = new Random();
+            StringBuilder id = new StringBuilder();
+            for(int i = 0; i < 8; i++){
+                id.Append(rand.Next(0, 10));
+            }
+            return id.ToString();
+        }
+        public override string ToString() => "{id}, {price}";
     }
 }

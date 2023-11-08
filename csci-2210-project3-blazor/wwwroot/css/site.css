@@ -23,6 +23,35 @@
     color: white;
 }
 
-    .blazor-error-boundary::after {
+.blazor-error-boundary::after {
         content: "An error has occurred."
-    }
+}
+
+.WarehouseHeader{
+    background-color: #b32121;
+    color: white;
+    padding: 10%;
+    margin-bottom: 10%;
+    border : 1px solid #b32121;
+    justify-content: center;
+    text-align: center;
+    border-color : #b32121;
+}
+
+
+body{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10%;
+    border: 1px solid #b32121;
+    border-radius: 10px;
+    background-color: #b32121;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Segoe UI', cursive;
+}

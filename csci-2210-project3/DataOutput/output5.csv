@@ -1,0 +1,77 @@
+Time Increment, Driver's name, Company Name, CrateID, Crate Value, Status
+2,Tara "Turnpike Titan" Turner,FairyWings Express,28508424,500.17,UNLOADED
+3,Tara "Turnpike Titan" Turner,FairyWings Express,38284346,498.74,UNLOADED
+4,Tara "Turnpike Titan" Turner,FairyWings Express,76895600,179.60,UNLOADED AND NO REPLACEMENT
+4,Terry "Truckin' Terrier" Taylor,Sherlock Shipping,55415583,293.00,UNLOADED
+5,Mark "Mud Mover" Morris,Robin Hood Couriers,50702886,321.02,UNLOADED
+5,Terry "Truckin' Terrier" Taylor,Sherlock Shipping,12857433,266.26,UNLOADED
+6,Mark "Mud Mover" Morris,Robin Hood Couriers,37438081,203.90,UNLOADED
+6,Terry "Truckin' Terrier" Taylor,Sherlock Shipping,26906059,436.69,UNLOADED AND NO REPLACEMENT
+7,Mark "Mud Mover" Morris,Robin Hood Couriers,86126579,267.74,UNLOADED
+7,Roger "Rubber Roadster" Reynolds,TimeMachine Transport,51093058,447.68,UNLOADED
+8,Mark "Mud Mover" Morris,Robin Hood Couriers,75162474,76.32,UNLOADED
+8,Roger "Rubber Roadster" Reynolds,TimeMachine Transport,50494668,497.32,UNLOADED AND NO REPLACEMENT
+9,Mark "Mud Mover" Morris,Robin Hood Couriers,85464307,321.18,UNLOADED
+10,Mark "Mud Mover" Morris,Robin Hood Couriers,01939275,336.67,UNLOADED AND NO REPLACEMENT
+10,Donna "Diesel Dynamo" Diaz,PurrfectParcel,43972125,95.36,UNLOADED
+11,Donna "Diesel Dynamo" Diaz,PurrfectParcel,31156460,474.21,UNLOADED
+12,Donna "Diesel Dynamo" Diaz,PurrfectParcel,16899805,121.58,UNLOADED
+13,Donna "Diesel Dynamo" Diaz,PurrfectParcel,76702560,319.86,UNLOADED
+14,Donna "Diesel Dynamo" Diaz,PurrfectParcel,95621430,191.05,UNLOADED
+15,Joe "Overdrive" O'Brien,UPSpeedy Parcel,94553485,306.12,UNLOADED
+15,Donna "Diesel Dynamo" Diaz,PurrfectParcel,04257758,52.00,UNLOADED
+16,Joe "Overdrive" O'Brien,UPSpeedy Parcel,75841502,431.58,UNLOADED
+16,Donna "Diesel Dynamo" Diaz,PurrfectParcel,76292161,288.19,UNLOADED
+17,Joe "Overdrive" O'Brien,UPSpeedy Parcel,66401170,321.45,UNLOADED
+17,Donna "Diesel Dynamo" Diaz,PurrfectParcel,61670830,200.40,UNLOADED
+18,Joe "Overdrive" O'Brien,UPSpeedy Parcel,64038166,338.22,UNLOADED
+18,Donna "Diesel Dynamo" Diaz,PurrfectParcel,99465318,359.88,UNLOADED AND NO REPLACEMENT
+19,Joe "Overdrive" O'Brien,UPSpeedy Parcel,48468860,275.41,UNLOADED
+19,Jack "Big Rig" Johnson,JollyRoger Delivery,59426962,190.03,UNLOADED
+20,Joe "Overdrive" O'Brien,UPSpeedy Parcel,68336672,187.35,UNLOADED AND NO REPLACEMENT
+20,Jack "Big Rig" Johnson,JollyRoger Delivery,78066188,490.43,UNLOADED
+21,Denise "Diesel Duchess" Davis,PurrfectParcel,40090938,449.43,UNLOADED
+21,Jack "Big Rig" Johnson,JollyRoger Delivery,28853836,404.59,UNLOADED
+22,Denise "Diesel Duchess" Davis,PurrfectParcel,50041338,365.16,UNLOADED
+22,Jack "Big Rig" Johnson,JollyRoger Delivery,64979875,269.82,UNLOADED
+23,Denise "Diesel Duchess" Davis,PurrfectParcel,38765185,105.99,UNLOADED
+23,Jack "Big Rig" Johnson,JollyRoger Delivery,57167758,102.31,UNLOADED
+24,Denise "Diesel Duchess" Davis,PurrfectParcel,52722634,313.60,UNLOADED
+24,Jack "Big Rig" Johnson,JollyRoger Delivery,90969918,261.86,UNLOADED
+25,Denise "Diesel Duchess" Davis,PurrfectParcel,66498866,65.08,UNLOADED
+25,Jack "Big Rig" Johnson,JollyRoger Delivery,64808493,410.51,UNLOADED
+26,Denise "Diesel Duchess" Davis,PurrfectParcel,89518215,185.37,UNLOADED AND NO REPLACEMENT
+26,Jack "Big Rig" Johnson,JollyRoger Delivery,76736877,258.66,UNLOADED
+26,Carla "Gearshift" Greene,Bigfoot Shipping,97338009,250.99,UNLOADED
+27,Jack "Big Rig" Johnson,JollyRoger Delivery,26569491,439.79,UNLOADED
+27,Carla "Gearshift" Greene,Bigfoot Shipping,67246059,457.52,UNLOADED
+28,Jack "Big Rig" Johnson,JollyRoger Delivery,24872870,263.61,UNLOADED AND NO REPLACEMENT
+28,Carla "Gearshift" Greene,Bigfoot Shipping,56600042,128.26,UNLOADED
+29,Carla "Gearshift" Greene,Bigfoot Shipping,37844627,225.80,UNLOADED
+30,Carla "Gearshift" Greene,Bigfoot Shipping,26001771,71.68,UNLOADED
+31,Doug "Dangerous Curve" Duncan,FairyTale Freight,80775416,108.27,UNLOADED
+31,Carla "Gearshift" Greene,Bigfoot Shipping,75268310,151.13,UNLOADED
+32,Doug "Dangerous Curve" Duncan,FairyTale Freight,23089469,103.04,UNLOADED
+32,Carla "Gearshift" Greene,Bigfoot Shipping,13294334,349.01,UNLOADED
+33,Doug "Dangerous Curve" Duncan,FairyTale Freight,85955606,388.04,UNLOADED
+33,Carla "Gearshift" Greene,Bigfoot Shipping,52060937,483.79,UNLOADED
+34,Doug "Dangerous Curve" Duncan,FairyTale Freight,75616028,342.50,UNLOADED
+34,Carla "Gearshift" Greene,Bigfoot Shipping,13516473,469.18,UNLOADED AND NO REPLACEMENT
+35,Doug "Dangerous Curve" Duncan,FairyTale Freight,36971728,280.52,UNLOADED
+36,Doug "Dangerous Curve" Duncan,FairyTale Freight,54798250,216.50,UNLOADED
+37,Doug "Dangerous Curve" Duncan,FairyTale Freight,52921995,429.34,UNLOADED AND NO REPLACEMENT
+38,Tony "Tornado" Thompson,MagicCarpet Couriers,38636695,368.65,UNLOADED
+39,Tony "Tornado" Thompson,MagicCarpet Couriers,85066232,90.90,UNLOADED
+40,Tony "Tornado" Thompson,MagicCarpet Couriers,28774069,278.62,UNLOADED
+41,Tony "Tornado" Thompson,MagicCarpet Couriers,29440270,407.59,UNLOADED
+42,Tony "Tornado" Thompson,MagicCarpet Couriers,18882555,60.74,UNLOADED
+42,Amber "Asphalt Angel" Anderson,Leprechaun Logistics,67497036,265.44,UNLOADED
+43,Tony "Tornado" Thompson,MagicCarpet Couriers,14750100,490.98,UNLOADED AND NO REPLACEMENT
+43,Amber "Asphalt Angel" Anderson,Leprechaun Logistics,16312295,274.50,UNLOADED
+44,Amber "Asphalt Angel" Anderson,Leprechaun Logistics,01951467,406.97,UNLOADED
+45,Frank "Highway Hero" Harris,TimeSleuth Deliveries,89787178,299.23,UNLOADED AND NO REPLACEMENT
+45,Amber "Asphalt Angel" Anderson,Leprechaun Logistics,92756022,209.46,UNLOADED
+46,Emily "Express Lane" Ellis,DinoDispatch,82236909,106.72,UNLOADED
+46,Amber "Asphalt Angel" Anderson,Leprechaun Logistics,70219065,306.49,UNLOADED
+47,Emily "Express Lane" Ellis,DinoDispatch,02404311,109.35,UNLOADED
+47,Amber "Asphalt Angel" Anderson,Leprechaun Logistics,80854482,436.82,UNLOADED
