@@ -3,10 +3,18 @@ using System.Diagnostics.Contracts;
 
 namespace csci_2210_project3.Classes.Drivers
 {
+    /// <summary>
+    /// A class that represents the available drivers
+    /// </summary>
     public class AvailableDrivers : IEnumerable<Driver>
     {
+        /// <summary>
+        /// The list of available drivers
+        /// </summary>
         public List<Driver> Drivers { get; private set; }
-
+        /// <summary>
+        /// The constructor for the <see cref="AvailableDrivers"/> class
+        /// </summary>
         public AvailableDrivers()
         {
             Drivers = new List<Driver>();
@@ -42,11 +50,12 @@ namespace csci_2210_project3.Classes.Drivers
             }
             return drivers;
         }
+
+
         public IEnumerator<Driver> GetEnumerator()
         {
             return Drivers.GetEnumerator();
         }
-
         IEnumerator IEnumerable.GetEnumerator()
         {
             return Drivers.GetEnumerator();

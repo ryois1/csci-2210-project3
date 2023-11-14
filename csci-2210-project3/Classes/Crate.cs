@@ -2,12 +2,21 @@ using System.Text;
 namespace csci_2210_project3.Classes
 {
     /// <summary>
-    /// A class that represents a crate for the truck class
+    /// A class that represents a crate
     /// </summary>
     public class Crate
     {
+        /// <summary>
+        /// The ID of the crate
+        /// </summary>
         public string Id { get; private set; }
+        /// <summary>
+        /// The price of the crate
+        /// </summary>
         public double Price { get; private set; }
+        /// <summary>
+        /// The constructor for the <see cref="Crate"/> class
+        /// </summary>
         public Crate()
         {
             Id = GenerateId();
@@ -24,11 +33,16 @@ namespace csci_2210_project3.Classes
             double centValue = rand.Next(0, 100) / 100.0;
             return dollarValue + centValue;
         }
-
-        private string GenerateId(){
+        /// <summary>
+        /// Generates a random ID for the crate
+        /// </summary>
+        /// <returns>the <see cref="Crate">s <see cref="Id"/></returns>
+        private string GenerateId()
+        {
             Random rand = new Random();
             StringBuilder id = new StringBuilder();
-            for(int i = 0; i < 8; i++){
+            for (int i = 0; i < 8; i++)
+            {
                 id.Append(rand.Next(0, 10));
             }
             return id.ToString();

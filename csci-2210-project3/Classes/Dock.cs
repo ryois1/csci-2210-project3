@@ -2,16 +2,42 @@ using System.Text;
 
 namespace csci_2210_project3.Classes
 {
+    /// <summary>
+    /// A class that represents a dock for the warehouse
+    /// </summary>
     public class Dock
     {
+        /// <summary>
+        /// The ID of the dock
+        /// </summary>
         public string Id { get; private set; }
+        /// <summary>
+        /// The line of trucks waiting to be unloaded
+        /// </summary>
         public Queue<Truck> Line { get; private set; }
+        /// <summary>
+        /// The total sales of the dock
+        /// </summary>
         public double TotalSales { get; private set; }
+        /// <summary>
+        /// The total crates of the dock
+        /// </summary>
         public int TotalCrates { get; private set; }
+        /// <summary>
+        /// The total trucks of the dock
+        /// </summary>
         public int TotalTrucks { get; private set; }
+        /// <summary>
+        /// The time in use of the dock
+        /// </summary>
         public int TimeInUse { get; set; }
+        /// <summary>
+        /// The amount of time a dock is idle
+        /// </summary>
         public int TimeNotInUse { get; set; }
-
+        /// <summary>
+        /// The constructor for the <see cref="Dock"/> class
+        /// </summary>
         public Dock()
         {
             Id = GenerateId();
@@ -22,7 +48,10 @@ namespace csci_2210_project3.Classes
             TimeInUse = 0;
             TimeNotInUse = 0;
         }
-
+        /// <summary>
+        /// Generates a random ID for the dock
+        /// </summary>
+        /// <returns>a <see cref="string"/>, the dock's id</returns>
         private string GenerateId()
         {
             Random rand = new Random();
@@ -37,7 +66,7 @@ namespace csci_2210_project3.Classes
         /// <summary>
         /// Adds a truck to the line
         /// </summary>
-        /// <param name="truck"></param>
+        /// <param name="truck"><see cref="Truck"/> to add</param>
         public void JoinLine(Truck truck)
         {
             //Adds Truck to the Dock's line
@@ -55,13 +84,19 @@ namespace csci_2210_project3.Classes
             Truck firstTruck = Line.Dequeue();
             return firstTruck;
         }
-
+        /// <summary>
+        /// Gets the first truck in the line
+        /// </summary>
+        /// <returns>the first <see cref="Truck"> in the line</returns>
         public Truck GetFirstTruck()
         {
             Truck firstTruck = Line.Peek();
             return firstTruck;
         }
-
+        /// <summary>
+        /// Override of the ToString method
+        /// </summary>
+        /// <returns>the <see cref="Dock"/> represented as a <see cref="string"/></returns>
         public override string ToString() => $"Dock {Id} has {Line.Count} trucks waiting, {TimeInUse} ticks in use, {TimeNotInUse} ticks not in use";
     }
 }

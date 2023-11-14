@@ -1,67 +1,574 @@
 Time Increment, Driver's name, Company Name, CrateID, Crate Value, Status
-1,Holly "Haulin' Queen" Hayes,DinoDispatch,02218579,287.94,UNLOADED
-2,Holly "Haulin' Queen" Hayes,DinoDispatch,01140828,326.76,UNLOADED
-3,Holly "Haulin' Queen" Hayes,DinoDispatch,05813955,84.67,UNLOADED
-3,Doug "Dangerous Curve" Duncan,Robin Hood Couriers,04766250,281.85,UNLOADED
-4,Holly "Haulin' Queen" Hayes,DinoDispatch,25446294,370.70,UNLOADED
-4,Doug "Dangerous Curve" Duncan,Robin Hood Couriers,31341000,114.39,UNLOADED
-5,Holly "Haulin' Queen" Hayes,DinoDispatch,55273983,276.18,UNLOADED
-5,Doug "Dangerous Curve" Duncan,Robin Hood Couriers,02910509,178.82,UNLOADED
-6,Holly "Haulin' Queen" Hayes,DinoDispatch,67986124,284.03,UNLOADED AND NO REPLACEMENT
-6,Doug "Dangerous Curve" Duncan,Robin Hood Couriers,08015248,294.56,UNLOADED
-7,Doug "Dangerous Curve" Duncan,Robin Hood Couriers,00821627,54.35,UNLOADED
-8,Doug "Dangerous Curve" Duncan,Robin Hood Couriers,16151773,386.36,UNLOADED
-9,Doug "Dangerous Curve" Duncan,Robin Hood Couriers,08957810,141.50,UNLOADED
-10,Doug "Dangerous Curve" Duncan,Robin Hood Couriers,17357826,193.56,UNLOADED AND NO REPLACEMENT
-11,Tim "Tire Tamer" Thompson,ThunderTruck Express,95570009,408.39,UNLOADED
-12,Tim "Tire Tamer" Thompson,ThunderTruck Express,37261339,354.19,UNLOADED
-13,Tim "Tire Tamer" Thompson,ThunderTruck Express,43308852,448.25,UNLOADED
-14,Tim "Tire Tamer" Thompson,ThunderTruck Express,07068244,454.35,UNLOADED AND NO REPLACEMENT
-15,Tara "Turnpike Titan" Turner,EcoFlower Express,77936687,243.71,UNLOADED
-16,Tara "Turnpike Titan" Turner,EcoFlower Express,22992609,256.58,UNLOADED
-17,Tara "Turnpike Titan" Turner,EcoFlower Express,72449370,451.16,UNLOADED
-18,Tara "Turnpike Titan" Turner,EcoFlower Express,25394632,268.43,UNLOADED
-19,Tara "Turnpike Titan" Turner,EcoFlower Express,65097929,202.38,UNLOADED
-19,Bill "Big Hauler" Bennett,BubbleWrap Express,66915751,372.91,UNLOADED
-20,Tara "Turnpike Titan" Turner,EcoFlower Express,32914177,158.42,UNLOADED
-20,Bill "Big Hauler" Bennett,BubbleWrap Express,96461889,439.91,UNLOADED
-20,Nancy "Nitro" Nelson,ZippityZoo Shipments,88925835,87.22,UNLOADED
-21,Tara "Turnpike Titan" Turner,EcoFlower Express,56116484,337.51,UNLOADED
-21,Bill "Big Hauler" Bennett,BubbleWrap Express,87528201,384.90,UNLOADED
-21,Nancy "Nitro" Nelson,ZippityZoo Shipments,73693033,258.59,UNLOADED
-22,Tara "Turnpike Titan" Turner,EcoFlower Express,07005501,185.58,UNLOADED AND NO REPLACEMENT
-22,Bill "Big Hauler" Bennett,BubbleWrap Express,60400063,277.48,UNLOADED
-22,Nancy "Nitro" Nelson,ZippityZoo Shipments,12578926,376.91,UNLOADED
-23,Ron "Road Roller" Robinson,SwiftShip Express,24470682,259.62,UNLOADED
-23,Bill "Big Hauler" Bennett,BubbleWrap Express,66064169,488.66,UNLOADED AND NO REPLACEMENT
-23,Nancy "Nitro" Nelson,ZippityZoo Shipments,57712290,470.72,UNLOADED
-24,Ron "Road Roller" Robinson,SwiftShip Express,10391340,406.27,UNLOADED
-24,Carla "Gearshift" Greene,DinoDispatch,39018144,135.16,UNLOADED
-24,Nancy "Nitro" Nelson,ZippityZoo Shipments,85822596,209.16,UNLOADED
-25,Ron "Road Roller" Robinson,SwiftShip Express,34418894,82.04,UNLOADED
-25,Carla "Gearshift" Greene,DinoDispatch,32029677,192.76,UNLOADED
-25,Nancy "Nitro" Nelson,ZippityZoo Shipments,74907288,482.88,UNLOADED
-26,Ron "Road Roller" Robinson,SwiftShip Express,67704724,63.09,UNLOADED
-26,Carla "Gearshift" Greene,DinoDispatch,44373448,299.11,UNLOADED AND NO REPLACEMENT
-26,Nancy "Nitro" Nelson,ZippityZoo Shipments,66383230,345.39,UNLOADED
-27,Ron "Road Roller" Robinson,SwiftShip Express,37303360,65.65,UNLOADED
-27,Nancy "Nitro" Nelson,ZippityZoo Shipments,99761741,88.63,UNLOADED
-28,Ron "Road Roller" Robinson,SwiftShip Express,29305682,308.34,UNLOADED
-28,Nancy "Nitro" Nelson,Rainbow Courier,52787528,308.83,UNLOADED
-28,Nancy "Nitro" Nelson,ZippityZoo Shipments,09844952,137.79,UNLOADED AND NO REPLACEMENT
-29,Ron "Road Roller" Robinson,SwiftShip Express,21426226,305.00,UNLOADED AND NO REPLACEMENT
-29,Nancy "Nitro" Nelson,Rainbow Courier,47525294,451.42,UNLOADED
-30,Roger "Rubber Roadster" Reynolds,Genie in a Parcel,42645500,459.57,UNLOADED
-30,Nancy "Nitro" Nelson,Rainbow Courier,77014216,371.34,UNLOADED AND NO REPLACEMENT
-31,Roger "Rubber Roadster" Reynolds,Genie in a Parcel,28670124,316.08,UNLOADED
-32,Roger "Rubber Roadster" Reynolds,Genie in a Parcel,63637740,469.04,UNLOADED
-33,Roger "Rubber Roadster" Reynolds,Genie in a Parcel,02559084,118.01,UNLOADED
-34,Roger "Rubber Roadster" Reynolds,Genie in a Parcel,17074602,188.46,UNLOADED
-35,Roger "Rubber Roadster" Reynolds,Genie in a Parcel,15916414,494.24,UNLOADED
-36,Roger "Rubber Roadster" Reynolds,Genie in a Parcel,26527573,473.67,UNLOADED
-37,Roger "Rubber Roadster" Reynolds,Genie in a Parcel,09990784,441.64,UNLOADED
-38,Roger "Rubber Roadster" Reynolds,Genie in a Parcel,06856534,409.45,UNLOADED AND NO REPLACEMENT
-45,Judy "Junction Jockey" Johnson,ApolloAstronautics,58668089,242.33,UNLOADED
-46,Judy "Junction Jockey" Johnson,ApolloAstronautics,97265690,135.42,UNLOADED
-47,Judy "Junction Jockey" Johnson,ApolloAstronautics,47632661,354.01,UNLOADED
-47,Doug "Dangerous Curve" Duncan,StellarDelivery,44146607,294.31,UNLOADED
+0,Emily "Express Lane" Ellis,Sherlock Shipping,44138905,230.93,UNLOADED
+1,Emily "Express Lane" Ellis,Sherlock Shipping,99676007,127.76,UNLOADED
+2,Emily "Express Lane" Ellis,Sherlock Shipping,66696854,479.26,UNLOADED
+3,Emily "Express Lane" Ellis,Sherlock Shipping,73883086,265.56,UNLOADED
+3,Greg "Gritty Grind" Greene,MonsterMover Express,43241783,360.68,UNLOADED
+4,Emily "Express Lane" Ellis,Sherlock Shipping,24985228,341.62,UNLOADED
+4,Greg "Gritty Grind" Greene,MonsterMover Express,82665308,319.00,UNLOADED
+5,Emily "Express Lane" Ellis,Sherlock Shipping,13318640,94.69,UNLOADED
+5,Greg "Gritty Grind" Greene,MonsterMover Express,85815406,105.11,UNLOADED
+6,Emily "Express Lane" Ellis,Sherlock Shipping,49045167,177.27,UNLOADED
+6,Greg "Gritty Grind" Greene,MonsterMover Express,82218367,302.74,UNLOADED AND NO REPLACEMENT
+7,Emily "Express Lane" Ellis,Sherlock Shipping,16470465,171.39,UNLOADED
+7,Melissa "Miles Ahead" Miller,Robin Hood Couriers,87340489,190.66,UNLOADED
+8,Emily "Express Lane" Ellis,Sherlock Shipping,29224692,60.26,UNLOADED
+8,Melissa "Miles Ahead" Miller,Robin Hood Couriers,51400696,297.17,UNLOADED
+9,Emily "Express Lane" Ellis,Sherlock Shipping,43266476,395.93,UNLOADED AND NO REPLACEMENT
+9,Melissa "Miles Ahead" Miller,Robin Hood Couriers,77085756,260.48,UNLOADED
+9,Sam "Speed Demon" Stewart,SwiftShip Express,35464125,336.31,UNLOADED
+10,Chuck "Cargo Cowboy" Collins,TimeSleuth Deliveries,81282799,107.26,UNLOADED
+10,Melissa "Miles Ahead" Miller,Robin Hood Couriers,95295456,214.93,UNLOADED
+10,Sam "Speed Demon" Stewart,SwiftShip Express,57424128,74.23,UNLOADED
+11,Chuck "Cargo Cowboy" Collins,TimeSleuth Deliveries,13850585,116.65,UNLOADED
+11,Melissa "Miles Ahead" Miller,Robin Hood Couriers,18448557,376.68,UNLOADED
+11,Sam "Speed Demon" Stewart,SwiftShip Express,44235833,260.30,UNLOADED
+12,Chuck "Cargo Cowboy" Collins,TimeSleuth Deliveries,51763016,409.34,UNLOADED
+12,Melissa "Miles Ahead" Miller,Robin Hood Couriers,13960703,93.99,UNLOADED
+12,Sam "Speed Demon" Stewart,SwiftShip Express,48009733,140.97,UNLOADED
+13,Chuck "Cargo Cowboy" Collins,TimeSleuth Deliveries,08321013,262.68,UNLOADED
+13,Melissa "Miles Ahead" Miller,Robin Hood Couriers,80858514,487.22,UNLOADED
+13,Sam "Speed Demon" Stewart,SwiftShip Express,20600234,442.25,UNLOADED
+14,Chuck "Cargo Cowboy" Collins,TimeSleuth Deliveries,74032181,477.53,UNLOADED
+14,Melissa "Miles Ahead" Miller,Robin Hood Couriers,22868912,80.10,UNLOADED AND NO REPLACEMENT
+14,Sam "Speed Demon" Stewart,SwiftShip Express,36166058,467.06,UNLOADED
+15,Chuck "Cargo Cowboy" Collins,TimeSleuth Deliveries,85606002,417.18,UNLOADED AND NO REPLACEMENT
+15,Dave "Freight Train" Foster,DinoDispatch,84276629,223.14,UNLOADED
+15,Sam "Speed Demon" Stewart,SwiftShip Express,61312973,255.13,UNLOADED
+16,Judy "Junction Jockey" Johnson,ApolloAstronautics,79154736,57.05,UNLOADED
+16,Dave "Freight Train" Foster,DinoDispatch,42293355,278.39,UNLOADED
+16,Sam "Speed Demon" Stewart,SwiftShip Express,70696026,348.38,UNLOADED
+17,Judy "Junction Jockey" Johnson,ApolloAstronautics,40007626,153.99,UNLOADED
+17,Dave "Freight Train" Foster,DinoDispatch,16930647,314.90,UNLOADED
+17,Sam "Speed Demon" Stewart,SwiftShip Express,76662147,392.43,UNLOADED AND NO REPLACEMENT
+18,Judy "Junction Jockey" Johnson,ApolloAstronautics,14466600,193.30,UNLOADED
+18,Dave "Freight Train" Foster,DinoDispatch,73556788,337.32,UNLOADED AND NO REPLACEMENT
+18,Holly "Haulin' Queen" Hayes,Wonderland Couriers,93713654,311.76,UNLOADED
+19,Judy "Junction Jockey" Johnson,ApolloAstronautics,58779154,172.50,UNLOADED
+19,Holly "Haulin' Queen" Hayes,Wonderland Couriers,25244035,271.63,UNLOADED
+20,Judy "Junction Jockey" Johnson,ApolloAstronautics,26405369,322.60,UNLOADED
+20,Pete "Payload" Patterson,DinoDash Couriers,60985743,200.05,UNLOADED
+20,Holly "Haulin' Queen" Hayes,Wonderland Couriers,89688899,277.59,UNLOADED
+21,Judy "Junction Jockey" Johnson,ApolloAstronautics,75189835,95.79,UNLOADED AND NO REPLACEMENT
+21,Pete "Payload" Patterson,DinoDash Couriers,02100137,403.73,UNLOADED AND NO REPLACEMENT
+21,Holly "Haulin' Queen" Hayes,Wonderland Couriers,63241448,236.28,UNLOADED
+22,Joe "Overdrive" O'Brien,UPSpeedy Parcel,60271972,134.19,UNLOADED AND NO REPLACEMENT
+22,Holly "Haulin' Queen" Hayes,Wonderland Couriers,24097604,161.19,UNLOADED
+23,Joe "Overdrive" O'Brien,Superhero Supply Service,59693469,422.84,UNLOADED
+23,Holly "Haulin' Queen" Hayes,Wonderland Couriers,31222517,291.18,UNLOADED
+24,Joe "Overdrive" O'Brien,Superhero Supply Service,23086563,254.85,UNLOADED
+24,Holly "Haulin' Queen" Hayes,Wonderland Couriers,22601438,275.63,UNLOADED
+25,Joe "Overdrive" O'Brien,Superhero Supply Service,61767309,202.61,UNLOADED
+25,Holly "Haulin' Queen" Hayes,Wonderland Couriers,08856688,107.78,UNLOADED AND NO REPLACEMENT
+26,Joe "Overdrive" O'Brien,Superhero Supply Service,85964031,372.65,UNLOADED
+27,Joe "Overdrive" O'Brien,Superhero Supply Service,02403989,373.10,UNLOADED
+28,Joe "Overdrive" O'Brien,Superhero Supply Service,90669547,74.35,UNLOADED
+28,Lisa "Long Haul" Lawrence,MonsterMover Express,72067180,60.82,UNLOADED
+29,Joe "Overdrive" O'Brien,Superhero Supply Service,48326528,270.83,UNLOADED
+29,Lisa "Long Haul" Lawrence,MonsterMover Express,85659384,193.98,UNLOADED
+30,Joe "Overdrive" O'Brien,Superhero Supply Service,14731975,334.34,UNLOADED
+30,Lisa "Long Haul" Lawrence,MonsterMover Express,31779623,335.62,UNLOADED
+31,Joe "Overdrive" O'Brien,Superhero Supply Service,40020351,241.34,UNLOADED AND NO REPLACEMENT
+31,Lisa "Long Haul" Lawrence,MonsterMover Express,91000033,375.06,UNLOADED AND NO REPLACEMENT
+34,Nancy "Nitro" Nelson,Wonderland Couriers,67738671,429.66,UNLOADED
+35,Nancy "Nitro" Nelson,Wonderland Couriers,35888866,315.90,UNLOADED
+36,Nancy "Nitro" Nelson,Wonderland Couriers,79706393,492.18,UNLOADED AND NO REPLACEMENT
+37,Wayne "Wheeler Warrior" Warren,DinoDash Couriers,16906960,191.65,UNLOADED
+38,Wayne "Wheeler Warrior" Warren,DinoDash Couriers,21496624,296.02,UNLOADED
+39,Wayne "Wheeler Warrior" Warren,DinoDash Couriers,16260663,426.30,UNLOADED
+39,Steve "Silver Streak" Sullivan,BubbleWrap Express,41655002,108.41,UNLOADED AND NO REPLACEMENT
+40,Wayne "Wheeler Warrior" Warren,DinoDash Couriers,45967508,95.63,UNLOADED
+41,Wayne "Wheeler Warrior" Warren,DinoDash Couriers,86957480,437.14,UNLOADED
+41,Sarah "Steel Horse" Smith,MagicCarpet Couriers,22790175,331.78,UNLOADED
+42,Wayne "Wheeler Warrior" Warren,DinoDash Couriers,54859075,97.37,UNLOADED
+42,Sarah "Steel Horse" Smith,MagicCarpet Couriers,47792000,350.50,UNLOADED
+43,Wayne "Wheeler Warrior" Warren,DinoDash Couriers,08216252,80.13,UNLOADED AND NO REPLACEMENT
+43,Sarah "Steel Horse" Smith,MagicCarpet Couriers,87868929,176.80,UNLOADED
+43,Joe "Overdrive" O'Brien,Ewok Express,16287347,55.29,UNLOADED AND NO REPLACEMENT
+44,Sarah "Steel Horse" Smith,MagicCarpet Couriers,75340916,198.42,UNLOADED
+45,Sarah "Steel Horse" Smith,MagicCarpet Couriers,61227670,364.73,UNLOADED
+46,Sarah "Steel Horse" Smith,MagicCarpet Couriers,09945862,95.85,UNLOADED
+47,Sarah "Steel Horse" Smith,MagicCarpet Couriers,09367261,483.82,UNLOADED
+8,Greg "Gritty Grind" Greene,UPSpeedy Parcel,11785120,$192.28,UNLOADED
+9,Greg "Gritty Grind" Greene,UPSpeedy Parcel,31797159,$490.51,UNLOADED
+10,Greg "Gritty Grind" Greene,UPSpeedy Parcel,58868210,$212.92,UNLOADED
+10,Tara "Turnpike Titan" Turner,DinoDash Couriers,38515686,$494.92,UNLOADED
+11,Greg "Gritty Grind" Greene,UPSpeedy Parcel,31789890,$276.09,UNLOADED
+11,Tara "Turnpike Titan" Turner,DinoDash Couriers,55002024,$156.78,UNLOADED
+12,Greg "Gritty Grind" Greene,UPSpeedy Parcel,03699535,$175.93,UNLOADED
+12,Tara "Turnpike Titan" Turner,DinoDash Couriers,11954271,$65.82,UNLOADED
+12,Rachel "Ramp Runner" Ramirez,Amazonia Deliveries,70713640,$481.47,UNLOADED AND NO REPLACEMENT
+13,Greg "Gritty Grind" Greene,UPSpeedy Parcel,69094091,$326.73,UNLOADED AND NO REPLACEMENT
+13,Tara "Turnpike Titan" Turner,DinoDash Couriers,70664523,$298.35,UNLOADED
+13,Chuck "Cargo Cowboy" Collins,Genie in a Parcel,28246256,$186.88,UNLOADED
+14,Tara "Turnpike Titan" Turner,DinoDash Couriers,92278856,$324.86,UNLOADED
+14,Chuck "Cargo Cowboy" Collins,Genie in a Parcel,34199080,$79.28,UNLOADED
+15,Tara "Turnpike Titan" Turner,DinoDash Couriers,82729533,$87.77,UNLOADED
+15,Chuck "Cargo Cowboy" Collins,Genie in a Parcel,35328004,$275.99,UNLOADED
+16,Frank "Highway Hero" Harris,Genie in a Parcel,08597810,$174.92,UNLOADED
+16,Tara "Turnpike Titan" Turner,DinoDash Couriers,43698792,$494.37,UNLOADED AND NO REPLACEMENT
+16,Chuck "Cargo Cowboy" Collins,Genie in a Parcel,01141100,$319.31,UNLOADED
+17,Frank "Highway Hero" Harris,Genie in a Parcel,34928940,$123.19,UNLOADED
+17,Chuck "Cargo Cowboy" Collins,Genie in a Parcel,16193884,$186.91,UNLOADED
+18,Frank "Highway Hero" Harris,Genie in a Parcel,16284610,$224.07,UNLOADED
+18,Michelle "Mover Maven" Morgan,Genie in a Parcel,29866515,$327.66,UNLOADED
+18,Chuck "Cargo Cowboy" Collins,Genie in a Parcel,81370414,$251.96,UNLOADED
+19,Frank "Highway Hero" Harris,Genie in a Parcel,47840195,$348.11,UNLOADED AND NO REPLACEMENT
+19,Michelle "Mover Maven" Morgan,Genie in a Parcel,94016949,$370.88,UNLOADED AND NO REPLACEMENT
+19,Chuck "Cargo Cowboy" Collins,Genie in a Parcel,55329994,$54.08,UNLOADED AND NO REPLACEMENT
+21,Terry "Truckin' Terrier" Taylor,ApolloAstronautics,74064362,$417.32,UNLOADED
+22,Terry "Truckin' Terrier" Taylor,ApolloAstronautics,35020176,$280.31,UNLOADED
+22,Amber "Asphalt Angel" Anderson,Superhero Supply Service,54248036,$321.15,UNLOADED
+23,Terry "Truckin' Terrier" Taylor,ApolloAstronautics,51524860,$377.47,UNLOADED
+23,Amber "Asphalt Angel" Anderson,Superhero Supply Service,38920658,$141.03,UNLOADED
+23,Ron "Road Roller" Robinson,PirateParcel Plunder,13437511,$141.68,UNLOADED AND NO REPLACEMENT
+24,Terry "Truckin' Terrier" Taylor,ApolloAstronautics,31713796,$184.17,UNLOADED
+24,Amber "Asphalt Angel" Anderson,Superhero Supply Service,15476349,$103.00,UNLOADED
+24,Wendy "Wheels" Wilson,TimeWarp Deliveries,51008686,$394.29,UNLOADED
+25,Terry "Truckin' Terrier" Taylor,ApolloAstronautics,18072766,$90.31,UNLOADED
+25,Amber "Asphalt Angel" Anderson,Superhero Supply Service,65423177,$227.28,UNLOADED
+25,Wendy "Wheels" Wilson,TimeWarp Deliveries,38944512,$354.11,UNLOADED
+26,Terry "Truckin' Terrier" Taylor,ApolloAstronautics,55576804,$282.83,UNLOADED
+26,Amber "Asphalt Angel" Anderson,Superhero Supply Service,80284923,$475.00,UNLOADED AND NO REPLACEMENT
+26,Wendy "Wheels" Wilson,TimeWarp Deliveries,91681147,$478.27,UNLOADED
+27,Terry "Truckin' Terrier" Taylor,ApolloAstronautics,75985268,$322.95,UNLOADED
+27,Michelle "Mover Maven" Morgan,Loch Ness Logistics,51094157,$449.13,UNLOADED
+27,Wendy "Wheels" Wilson,TimeWarp Deliveries,03358921,$214.28,UNLOADED
+28,Terry "Truckin' Terrier" Taylor,ApolloAstronautics,37007367,$353.97,UNLOADED AND NO REPLACEMENT
+28,Michelle "Mover Maven" Morgan,Loch Ness Logistics,78294895,$241.41,UNLOADED
+28,Wendy "Wheels" Wilson,TimeWarp Deliveries,15562802,$148.07,UNLOADED AND NO REPLACEMENT
+29,Linda "Lane Lover" Lewis,TimeMachine Transport,91847407,$162.37,UNLOADED
+29,Michelle "Mover Maven" Morgan,Loch Ness Logistics,07783154,$153.98,UNLOADED AND NO REPLACEMENT
+30,Linda "Lane Lover" Lewis,TimeMachine Transport,16607124,$421.93,UNLOADED
+30,Pete "Payload" Patterson,Amazonia Deliveries,75811361,$379.40,UNLOADED
+31,Linda "Lane Lover" Lewis,TimeMachine Transport,89910208,$194.58,UNLOADED
+31,Pete "Payload" Patterson,Amazonia Deliveries,89127996,$206.44,UNLOADED
+32,Linda "Lane Lover" Lewis,TimeMachine Transport,86168028,$351.68,UNLOADED
+32,Pete "Payload" Patterson,Amazonia Deliveries,03287170,$179.35,UNLOADED
+33,Linda "Lane Lover" Lewis,TimeMachine Transport,08297158,$481.93,UNLOADED
+33,Pete "Payload" Patterson,Amazonia Deliveries,73328115,$354.16,UNLOADED
+33,Gary "Gravel Grinder" Gordon,Ewok Express,54644725,$272.72,UNLOADED
+34,Linda "Lane Lover" Lewis,TimeMachine Transport,73940751,$333.71,UNLOADED
+34,Pete "Payload" Patterson,Amazonia Deliveries,07323669,$260.75,UNLOADED
+34,Gary "Gravel Grinder" Gordon,Ewok Express,19948329,$234.96,UNLOADED
+35,Linda "Lane Lover" Lewis,TimeMachine Transport,80644655,$371.45,UNLOADED
+35,Pete "Payload" Patterson,Amazonia Deliveries,91575067,$67.55,UNLOADED AND NO REPLACEMENT
+35,Gary "Gravel Grinder" Gordon,Ewok Express,55065853,$101.19,UNLOADED
+36,Linda "Lane Lover" Lewis,TimeMachine Transport,29107564,$178.08,UNLOADED AND NO REPLACEMENT
+36,Tim "Tire Tamer" Thompson,Rainbow Courier,64592085,$66.72,UNLOADED
+36,Gary "Gravel Grinder" Gordon,Ewok Express,23412554,$360.78,UNLOADED
+37,Lisa "Long Haul" Lawrence,SwiftShip Express,46782009,$398.22,UNLOADED
+37,Tim "Tire Tamer" Thompson,Rainbow Courier,35707629,$128.96,UNLOADED
+37,Gary "Gravel Grinder" Gordon,Ewok Express,27599241,$132.08,UNLOADED
+38,Lisa "Long Haul" Lawrence,SwiftShip Express,04027884,$257.55,UNLOADED
+38,Tim "Tire Tamer" Thompson,Rainbow Courier,54029397,$212.74,UNLOADED
+38,Gary "Gravel Grinder" Gordon,Ewok Express,75269540,$270.47,UNLOADED
+39,Lisa "Long Haul" Lawrence,SwiftShip Express,27163076,$399.35,UNLOADED
+39,Tim "Tire Tamer" Thompson,Rainbow Courier,69571156,$170.32,UNLOADED
+39,Gary "Gravel Grinder" Gordon,Ewok Express,83840435,$119.76,UNLOADED
+40,Lisa "Long Haul" Lawrence,SwiftShip Express,61714517,$229.10,UNLOADED
+40,Tim "Tire Tamer" Thompson,Rainbow Courier,87261512,$363.59,UNLOADED
+40,Gary "Gravel Grinder" Gordon,Ewok Express,15545315,$309.60,UNLOADED AND NO REPLACEMENT
+41,Lisa "Long Haul" Lawrence,SwiftShip Express,30652385,$202.34,UNLOADED
+41,Tim "Tire Tamer" Thompson,Rainbow Courier,46601991,$355.09,UNLOADED
+41,Tom "Tanker King" Turner,ThunderTruck Express,97367636,$309.02,UNLOADED
+42,Lisa "Long Haul" Lawrence,SwiftShip Express,62587133,$472.99,UNLOADED
+42,Tim "Tire Tamer" Thompson,Rainbow Courier,28731579,$176.33,UNLOADED
+42,Tom "Tanker King" Turner,ThunderTruck Express,51846142,$430.59,UNLOADED
+43,Lisa "Long Haul" Lawrence,SwiftShip Express,20843867,$56.01,UNLOADED AND NO REPLACEMENT
+43,Tim "Tire Tamer" Thompson,Rainbow Courier,68829618,$84.85,UNLOADED AND NO REPLACEMENT
+43,Tom "Tanker King" Turner,ThunderTruck Express,39244384,$87.76,UNLOADED
+44,Rachel "Ramp Runner" Ramirez,FedExpress,05404127,$188.69,UNLOADED
+44,Pete "Payload" Patterson,ApolloAstronautics,59364089,$289.55,UNLOADED AND NO REPLACEMENT
+44,Tom "Tanker King" Turner,ThunderTruck Express,95405594,$490.56,UNLOADED
+45,Rachel "Ramp Runner" Ramirez,FedExpress,84101135,$247.53,UNLOADED
+45,Linda "Lane Lover" Lewis,GnomeGlide Couriers,60785441,$143.04,UNLOADED
+45,Tom "Tanker King" Turner,ThunderTruck Express,16173974,$390.59,UNLOADED
+46,Rachel "Ramp Runner" Ramirez,FedExpress,88480508,$182.94,UNLOADED
+46,Linda "Lane Lover" Lewis,GnomeGlide Couriers,18091551,$189.09,UNLOADED
+46,Tom "Tanker King" Turner,ThunderTruck Express,47939540,$89.06,UNLOADED
+47,Rachel "Ramp Runner" Ramirez,FedExpress,61958442,$249.72,UNLOADED
+47,Linda "Lane Lover" Lewis,GnomeGlide Couriers,21633417,$205.36,UNLOADED
+47,Tom "Tanker King" Turner,ThunderTruck Express,61486384,$165.86,UNLOADED AND NO REPLACEMENT
+4,Bob "Bulldozer" Baxter,ZippityZoo Shipments,98671271,$200.99,UNLOADED
+5,Bob "Bulldozer" Baxter,ZippityZoo Shipments,95295961,$499.99,UNLOADED
+5,Steve "Silver Streak" Sullivan,SecretAgent Shipping,21340276,$94.23,UNLOADED
+6,Bob "Bulldozer" Baxter,ZippityZoo Shipments,10864857,$285.69,UNLOADED AND NO REPLACEMENT
+6,Steve "Silver Streak" Sullivan,SecretAgent Shipping,15140436,$109.65,UNLOADED
+7,Steve "Silver Streak" Sullivan,SecretAgent Shipping,46427463,$62.19,UNLOADED
+8,Steve "Silver Streak" Sullivan,SecretAgent Shipping,51121553,$236.01,UNLOADED
+9,Steve "Silver Streak" Sullivan,SecretAgent Shipping,43141431,$418.89,UNLOADED AND NO REPLACEMENT
+12,Bob "Bulldozer" Baxter,TimeMachine Transport,74765125,$99.69,UNLOADED
+13,Bob "Bulldozer" Baxter,TimeMachine Transport,14134811,$388.89,UNLOADED
+14,Bob "Bulldozer" Baxter,TimeMachine Transport,92938209,$405.79,UNLOADED
+15,Bob "Bulldozer" Baxter,TimeMachine Transport,22206463,$141.87,UNLOADED
+15,Holly "Haulin' Queen" Hayes,FairyTale Freight,09063562,$237.60,UNLOADED
+16,Bob "Bulldozer" Baxter,TimeMachine Transport,45355825,$324.95,UNLOADED
+16,Holly "Haulin' Queen" Hayes,FairyTale Freight,71165978,$193.50,UNLOADED
+17,Bob "Bulldozer" Baxter,TimeMachine Transport,52579288,$226.95,UNLOADED
+17,Holly "Haulin' Queen" Hayes,FairyTale Freight,49501801,$436.95,UNLOADED
+17,Tony "Tornado" Thompson,Superhero Supply Service,93321435,$417.34,UNLOADED
+18,Bob "Bulldozer" Baxter,TimeMachine Transport,00804284,$181.32,UNLOADED AND NO REPLACEMENT
+18,Holly "Haulin' Queen" Hayes,FairyTale Freight,52819135,$412.73,UNLOADED
+18,Tony "Tornado" Thompson,Superhero Supply Service,63011082,$442.47,UNLOADED
+19,Donna "Diesel Dynamo" Diaz,Starship Supplies,79133294,$109.22,UNLOADED
+19,Holly "Haulin' Queen" Hayes,FairyTale Freight,17998906,$410.20,UNLOADED AND NO REPLACEMENT
+19,Tony "Tornado" Thompson,Superhero Supply Service,02941902,$408.15,UNLOADED
+20,Donna "Diesel Dynamo" Diaz,Starship Supplies,17744176,$241.52,UNLOADED
+20,Jack "Big Rig" Johnson,DinoDispatch,09875171,$305.58,UNLOADED
+20,Tony "Tornado" Thompson,Superhero Supply Service,15254567,$433.81,UNLOADED
+21,Donna "Diesel Dynamo" Diaz,Starship Supplies,22154221,$472.33,UNLOADED
+21,Jack "Big Rig" Johnson,DinoDispatch,18942238,$125.68,UNLOADED
+21,Tony "Tornado" Thompson,Superhero Supply Service,71892009,$154.09,UNLOADED
+22,Donna "Diesel Dynamo" Diaz,Starship Supplies,59340383,$103.31,UNLOADED
+22,Jack "Big Rig" Johnson,DinoDispatch,34322391,$123.37,UNLOADED AND NO REPLACEMENT
+22,Tony "Tornado" Thompson,Superhero Supply Service,27799515,$174.51,UNLOADED AND NO REPLACEMENT
+23,Donna "Diesel Dynamo" Diaz,Starship Supplies,46849877,$376.91,UNLOADED
+23,Laura "Light Load" Lambert,DinoDash Couriers,86267010,$393.14,UNLOADED
+23,Joe "Overdrive" O'Brien,PurrfectParcel,25121543,$364.68,UNLOADED
+24,Donna "Diesel Dynamo" Diaz,Starship Supplies,80913305,$166.68,UNLOADED
+24,Laura "Light Load" Lambert,DinoDash Couriers,70864252,$85.58,UNLOADED
+24,Joe "Overdrive" O'Brien,PurrfectParcel,51130212,$144.86,UNLOADED
+25,Donna "Diesel Dynamo" Diaz,Starship Supplies,57422949,$414.38,UNLOADED
+25,Laura "Light Load" Lambert,DinoDash Couriers,07028749,$487.61,UNLOADED
+25,Joe "Overdrive" O'Brien,PurrfectParcel,16212230,$405.10,UNLOADED
+26,Donna "Diesel Dynamo" Diaz,Starship Supplies,52320334,$81.12,UNLOADED
+26,Laura "Light Load" Lambert,DinoDash Couriers,05691105,$358.25,UNLOADED
+26,Joe "Overdrive" O'Brien,PurrfectParcel,35883733,$356.16,UNLOADED
+27,Donna "Diesel Dynamo" Diaz,Starship Supplies,30178622,$486.82,UNLOADED
+27,Laura "Light Load" Lambert,DinoDash Couriers,68878973,$240.52,UNLOADED
+27,Joe "Overdrive" O'Brien,PurrfectParcel,07520964,$52.44,UNLOADED
+28,Donna "Diesel Dynamo" Diaz,Starship Supplies,38947207,$386.89,UNLOADED AND NO REPLACEMENT
+28,Laura "Light Load" Lambert,DinoDash Couriers,22881930,$382.66,UNLOADED
+28,Joe "Overdrive" O'Brien,PurrfectParcel,40907160,$81.96,UNLOADED
+29,Wayne "Wheeler Warrior" Warren,EcoFlower Express,97621017,$221.73,UNLOADED
+29,Laura "Light Load" Lambert,DinoDash Couriers,96160456,$429.31,UNLOADED AND NO REPLACEMENT
+29,Joe "Overdrive" O'Brien,PurrfectParcel,96078140,$472.98,UNLOADED
+30,Wayne "Wheeler Warrior" Warren,EcoFlower Express,25220445,$205.92,UNLOADED
+30,Emily "Express Lane" Ellis,FedExpress,48850736,$139.03,UNLOADED
+30,Joe "Overdrive" O'Brien,PurrfectParcel,71042262,$90.18,UNLOADED AND NO REPLACEMENT
+31,Wayne "Wheeler Warrior" Warren,EcoFlower Express,65108883,$187.42,UNLOADED
+31,Emily "Express Lane" Ellis,FedExpress,75128018,$177.18,UNLOADED
+31,Chuck "Cargo Cowboy" Collins,FairyTale Freight,75708389,$204.85,UNLOADED
+32,Wayne "Wheeler Warrior" Warren,EcoFlower Express,95184370,$105.10,UNLOADED
+32,Emily "Express Lane" Ellis,FedExpress,83146260,$191.79,UNLOADED AND NO REPLACEMENT
+32,Chuck "Cargo Cowboy" Collins,FairyTale Freight,87634796,$300.33,UNLOADED
+33,Wayne "Wheeler Warrior" Warren,EcoFlower Express,54693998,$406.52,UNLOADED
+33,Andrea "Acceleration Ace" Adams,PurrfectParcel,03595209,$244.04,UNLOADED
+33,Chuck "Cargo Cowboy" Collins,FairyTale Freight,34953588,$219.40,UNLOADED AND NO REPLACEMENT
+34,Wayne "Wheeler Warrior" Warren,EcoFlower Express,24046506,$430.99,UNLOADED
+34,Andrea "Acceleration Ace" Adams,PurrfectParcel,92408249,$226.28,UNLOADED
+34,Grace "Gasoline Gal" Garcia,BuzzyBee Deliveries,05730009,$52.27,UNLOADED
+35,Wayne "Wheeler Warrior" Warren,EcoFlower Express,16664491,$236.68,UNLOADED
+35,Andrea "Acceleration Ace" Adams,PurrfectParcel,58333238,$56.63,UNLOADED
+35,Grace "Gasoline Gal" Garcia,BuzzyBee Deliveries,32344537,$335.78,UNLOADED
+36,Wayne "Wheeler Warrior" Warren,EcoFlower Express,31889230,$426.82,UNLOADED
+36,Andrea "Acceleration Ace" Adams,PurrfectParcel,94153128,$173.91,UNLOADED
+36,Grace "Gasoline Gal" Garcia,BuzzyBee Deliveries,56715700,$466.25,UNLOADED
+37,Wayne "Wheeler Warrior" Warren,EcoFlower Express,99839631,$101.28,UNLOADED
+37,Andrea "Acceleration Ace" Adams,PurrfectParcel,15547875,$328.73,UNLOADED
+37,Grace "Gasoline Gal" Garcia,BuzzyBee Deliveries,01897587,$437.57,UNLOADED
+38,Wayne "Wheeler Warrior" Warren,EcoFlower Express,14339096,$303.71,UNLOADED AND NO REPLACEMENT
+38,Andrea "Acceleration Ace" Adams,PurrfectParcel,14578547,$86.55,UNLOADED
+38,Grace "Gasoline Gal" Garcia,BuzzyBee Deliveries,28911132,$50.51,UNLOADED
+39,Sarah "Steel Horse" Smith,TimeWarp Deliveries,62748393,$206.48,UNLOADED
+39,Andrea "Acceleration Ace" Adams,PurrfectParcel,82380231,$311.65,UNLOADED
+39,Grace "Gasoline Gal" Garcia,BuzzyBee Deliveries,09522826,$193.26,UNLOADED
+40,Sarah "Steel Horse" Smith,TimeWarp Deliveries,82160496,$345.34,UNLOADED
+40,Andrea "Acceleration Ace" Adams,PurrfectParcel,04415793,$179.30,UNLOADED
+40,Grace "Gasoline Gal" Garcia,BuzzyBee Deliveries,39341631,$249.17,UNLOADED AND NO REPLACEMENT
+41,Sarah "Steel Horse" Smith,TimeWarp Deliveries,95568111,$481.73,UNLOADED
+41,Andrea "Acceleration Ace" Adams,PurrfectParcel,37350903,$153.46,UNLOADED AND NO REPLACEMENT
+41,Wayne "Wheeler Warrior" Warren,EcoFlower Express,78540975,$50.43,UNLOADED
+42,Sarah "Steel Horse" Smith,TimeWarp Deliveries,60853304,$286.95,UNLOADED
+42,Kim "Kilometer Queen" King,Leprechaun Logistics,82650192,$348.56,UNLOADED
+42,Wayne "Wheeler Warrior" Warren,EcoFlower Express,25491486,$229.74,UNLOADED
+43,Sarah "Steel Horse" Smith,TimeWarp Deliveries,36028059,$347.15,UNLOADED AND NO REPLACEMENT
+43,Kim "Kilometer Queen" King,Leprechaun Logistics,15966779,$431.66,UNLOADED
+43,Wayne "Wheeler Warrior" Warren,EcoFlower Express,85633267,$418.34,UNLOADED
+44,Bob "Bulldozer" Baxter,TimeMachine Transport,38455384,$286.73,UNLOADED
+44,Kim "Kilometer Queen" King,Leprechaun Logistics,10807069,$399.99,UNLOADED
+44,Wayne "Wheeler Warrior" Warren,EcoFlower Express,28847893,$109.14,UNLOADED
+45,Bob "Bulldozer" Baxter,TimeMachine Transport,84813831,$65.95,UNLOADED
+45,Kim "Kilometer Queen" King,Leprechaun Logistics,06590306,$463.82,UNLOADED
+45,Wayne "Wheeler Warrior" Warren,EcoFlower Express,78376497,$480.67,UNLOADED AND NO REPLACEMENT
+46,Bob "Bulldozer" Baxter,TimeMachine Transport,11208464,$54.13,UNLOADED
+46,Kim "Kilometer Queen" King,Leprechaun Logistics,51593587,$377.90,UNLOADED
+46,Rachel "Ramp Runner" Ramirez,DHLuxe Deliveries,03827407,$258.79,UNLOADED
+47,Bob "Bulldozer" Baxter,TimeMachine Transport,88200282,$89.35,UNLOADED
+47,Kim "Kilometer Queen" King,Leprechaun Logistics,44695262,$76.54,UNLOADED AND NO REPLACEMENT
+47,Rachel "Ramp Runner" Ramirez,DHLuxe Deliveries,41654599,$413.50,UNLOADED
+5,Nancy "Nitro" Nelson,TimeWarp Deliveries,96883044,$84.49,UNLOADED
+6,Nancy "Nitro" Nelson,TimeWarp Deliveries,08531911,$474.46,UNLOADED
+7,Nancy "Nitro" Nelson,TimeWarp Deliveries,84779524,$252.66,UNLOADED
+7,Larry "Lugnut" Lawson,StellarDelivery,72914589,$218.88,UNLOADED
+8,Nancy "Nitro" Nelson,TimeWarp Deliveries,79405998,$382.14,UNLOADED
+8,Larry "Lugnut" Lawson,StellarDelivery,07588831,$213.52,UNLOADED
+8,Larry "Lugnut" Lawson,EcoFlower Express,89694188,$108.61,UNLOADED
+9,Nancy "Nitro" Nelson,TimeWarp Deliveries,54589951,$226.62,UNLOADED AND NO REPLACEMENT
+9,Larry "Lugnut" Lawson,StellarDelivery,07277443,$242.14,UNLOADED
+9,Larry "Lugnut" Lawson,EcoFlower Express,32485521,$379.77,UNLOADED
+10,Larry "Lugnut" Lawson,StellarDelivery,12309474,$385.81,UNLOADED AND NO REPLACEMENT
+10,Larry "Lugnut" Lawson,EcoFlower Express,71168981,$148.59,UNLOADED
+11,Mark "Mud Mover" Morris,Sherlock Shipping,65722395,$286.02,UNLOADED
+11,Larry "Lugnut" Lawson,EcoFlower Express,01072674,$250.83,UNLOADED
+12,Mark "Mud Mover" Morris,Sherlock Shipping,58509102,$407.60,UNLOADED AND NO REPLACEMENT
+12,Larry "Lugnut" Lawson,EcoFlower Express,56510132,$396.22,UNLOADED
+13,Michelle "Midnight Rider" Martinez,Amazonia Deliveries,80859129,$498.29,UNLOADED
+13,Larry "Lugnut" Lawson,EcoFlower Express,66509479,$348.49,UNLOADED
+14,Michelle "Midnight Rider" Martinez,Amazonia Deliveries,85698563,$77.53,UNLOADED
+14,Linda "Lane Lover" Lewis,BubbleWrap Express,60729587,$132.51,UNLOADED
+14,Larry "Lugnut" Lawson,EcoFlower Express,63324037,$99.11,UNLOADED
+15,Michelle "Midnight Rider" Martinez,Amazonia Deliveries,57711088,$386.30,UNLOADED
+15,Linda "Lane Lover" Lewis,BubbleWrap Express,35263648,$257.37,UNLOADED
+15,Larry "Lugnut" Lawson,EcoFlower Express,89125706,$242.93,UNLOADED
+16,Michelle "Midnight Rider" Martinez,Amazonia Deliveries,26246808,$162.59,UNLOADED
+16,Linda "Lane Lover" Lewis,BubbleWrap Express,40077782,$321.09,UNLOADED
+16,Larry "Lugnut" Lawson,EcoFlower Express,89439364,$416.16,UNLOADED AND NO REPLACEMENT
+17,Michelle "Midnight Rider" Martinez,Amazonia Deliveries,84132103,$298.35,UNLOADED
+17,Linda "Lane Lover" Lewis,BubbleWrap Express,02186633,$75.05,UNLOADED
+17,Angela "Axle Ace" Allen,PurrfectParcel,04027972,$404.55,UNLOADED
+18,Michelle "Midnight Rider" Martinez,Amazonia Deliveries,27119346,$145.11,UNLOADED
+18,Linda "Lane Lover" Lewis,BubbleWrap Express,82331603,$198.08,UNLOADED AND NO REPLACEMENT
+18,Angela "Axle Ace" Allen,PurrfectParcel,08751068,$221.53,UNLOADED
+19,Michelle "Midnight Rider" Martinez,Amazonia Deliveries,71480031,$299.90,UNLOADED
+19,Angela "Axle Ace" Allen,PurrfectParcel,79697116,$384.58,UNLOADED
+20,Michelle "Midnight Rider" Martinez,Amazonia Deliveries,59013176,$310.62,UNLOADED AND NO REPLACEMENT
+20,Tim "Tire Tamer" Thompson,Superhero Supply Service,47203890,$450.55,UNLOADED
+20,Angela "Axle Ace" Allen,PurrfectParcel,01280382,$139.03,UNLOADED
+21,Amber "Asphalt Angel" Anderson,VikingVessel Deliveries,32932114,$382.86,UNLOADED
+21,Tim "Tire Tamer" Thompson,Superhero Supply Service,97049388,$396.54,UNLOADED AND NO REPLACEMENT
+21,Angela "Axle Ace" Allen,PurrfectParcel,96276977,$328.55,UNLOADED AND NO REPLACEMENT
+22,Amber "Asphalt Angel" Anderson,VikingVessel Deliveries,48404765,$361.99,UNLOADED
+23,Amber "Asphalt Angel" Anderson,VikingVessel Deliveries,37441798,$247.32,UNLOADED
+24,Amber "Asphalt Angel" Anderson,VikingVessel Deliveries,68183540,$281.67,UNLOADED
+25,Amber "Asphalt Angel" Anderson,VikingVessel Deliveries,30476835,$347.18,UNLOADED
+26,Amber "Asphalt Angel" Anderson,VikingVessel Deliveries,22320270,$244.61,UNLOADED
+27,Amber "Asphalt Angel" Anderson,VikingVessel Deliveries,89007007,$53.95,UNLOADED
+27,Carl "Caravan Captain" Carr,TimeSleuth Deliveries,12201253,$380.25,UNLOADED
+28,Amber "Asphalt Angel" Anderson,VikingVessel Deliveries,80806984,$438.96,UNLOADED
+28,Carl "Caravan Captain" Carr,TimeSleuth Deliveries,09893657,$61.41,UNLOADED
+29,Amber "Asphalt Angel" Anderson,VikingVessel Deliveries,83438532,$88.94,UNLOADED AND NO REPLACEMENT
+29,Carl "Caravan Captain" Carr,TimeSleuth Deliveries,79155157,$85.62,UNLOADED
+29,Kim "Kilometer Queen" King,MagicCarpet Couriers,52941111,$198.82,UNLOADED AND NO REPLACEMENT
+30,Carl "Caravan Captain" Carr,TimeSleuth Deliveries,21394978,$242.29,UNLOADED AND NO REPLACEMENT
+34,Carla "Gearshift" Greene,Superhero Supply Service,87512008,$382.64,UNLOADED
+35,Carla "Gearshift" Greene,Superhero Supply Service,30233064,$169.71,UNLOADED
+35,Judy "Junction Jockey" Johnson,X-Files Deliveries,19141890,$153.08,UNLOADED AND NO REPLACEMENT
+36,Carla "Gearshift" Greene,Superhero Supply Service,97007822,$79.61,UNLOADED
+37,Carla "Gearshift" Greene,Superhero Supply Service,39885422,$155.93,UNLOADED
+37,Donna "Diesel Dynamo" Diaz,SpacePenguin Express,04548036,$477.44,UNLOADED
+38,Carla "Gearshift" Greene,Superhero Supply Service,84749257,$109.42,UNLOADED AND NO REPLACEMENT
+38,Donna "Diesel Dynamo" Diaz,SpacePenguin Express,80358336,$482.04,UNLOADED
+39,Donna "Diesel Dynamo" Diaz,SpacePenguin Express,95264006,$272.52,UNLOADED
+40,Donna "Diesel Dynamo" Diaz,SpacePenguin Express,21482197,$424.66,UNLOADED
+41,Donna "Diesel Dynamo" Diaz,SpacePenguin Express,75353879,$419.42,UNLOADED
+42,Terry "Truckin' Terrier" Taylor,TimeWarp Deliveries,29113492,$308.81,UNLOADED
+42,Donna "Diesel Dynamo" Diaz,SpacePenguin Express,97863581,$430.48,UNLOADED AND NO REPLACEMENT
+43,Terry "Truckin' Terrier" Taylor,TimeWarp Deliveries,09743574,$423.54,UNLOADED AND NO REPLACEMENT
+43,Carl "Caravan Captain" Carr,SecretAgent Shipping,17255488,$293.91,UNLOADED
+44,Ray "Roadway Ranger" Rogers,StellarDelivery,25571411,$85.58,UNLOADED
+44,Carl "Caravan Captain" Carr,SecretAgent Shipping,39016415,$483.98,UNLOADED
+45,Ray "Roadway Ranger" Rogers,StellarDelivery,58185145,$428.07,UNLOADED AND NO REPLACEMENT
+45,Carl "Caravan Captain" Carr,SecretAgent Shipping,02967488,$116.26,UNLOADED
+45,Mark "Mud Mover" Morris,Boxzilla Shipping,83635144,$472.50,UNLOADED
+46,Carl "Caravan Captain" Carr,SecretAgent Shipping,35737673,$278.46,UNLOADED
+46,Mark "Mud Mover" Morris,Boxzilla Shipping,21582838,$230.00,UNLOADED
+47,Carl "Caravan Captain" Carr,SecretAgent Shipping,46837348,$337.23,UNLOADED
+47,Mark "Mud Mover" Morris,Boxzilla Shipping,49862229,$488.43,UNLOADED
+1,Mark "Mud Mover" Morris,MagicCarpet Couriers,52362820,$103.52,UNLOADED
+2,Mark "Mud Mover" Morris,MagicCarpet Couriers,04052335,$236.59,UNLOADED
+3,Mark "Mud Mover" Morris,MagicCarpet Couriers,99270144,$169.76,UNLOADED
+4,Mark "Mud Mover" Morris,MagicCarpet Couriers,87285231,$418.44,UNLOADED
+4,Linda "Lane Lover" Lewis,DragonWings Express,94768237,$418.38,UNLOADED
+5,Mark "Mud Mover" Morris,MagicCarpet Couriers,17079464,$436.52,UNLOADED
+5,Linda "Lane Lover" Lewis,DragonWings Express,23114401,$272.58,UNLOADED
+6,Mark "Mud Mover" Morris,MagicCarpet Couriers,93103449,$74.97,UNLOADED
+6,Linda "Lane Lover" Lewis,DragonWings Express,79376097,$162.71,UNLOADED
+7,Mark "Mud Mover" Morris,MagicCarpet Couriers,26379439,$440.59,UNLOADED AND NO REPLACEMENT
+7,Linda "Lane Lover" Lewis,DragonWings Express,29492494,$486.59,UNLOADED
+8,Linda "Lane Lover" Lewis,DragonWings Express,88461644,$115.94,UNLOADED
+9,Sandra "Semi Siren" Spencer,Starship Supplies,56547777,$236.35,UNLOADED
+9,Linda "Lane Lover" Lewis,DragonWings Express,94776006,$445.99,UNLOADED
+10,Sandra "Semi Siren" Spencer,Starship Supplies,80590247,$495.21,UNLOADED
+10,Linda "Lane Lover" Lewis,DragonWings Express,60444902,$272.32,UNLOADED
+11,Sandra "Semi Siren" Spencer,Starship Supplies,92900880,$78.98,UNLOADED
+11,Linda "Lane Lover" Lewis,DragonWings Express,60761776,$219.43,UNLOADED
+12,Sandra "Semi Siren" Spencer,Starship Supplies,67108059,$233.41,UNLOADED
+12,Linda "Lane Lover" Lewis,DragonWings Express,02037314,$477.82,UNLOADED
+13,Sandra "Semi Siren" Spencer,Starship Supplies,92994489,$279.89,UNLOADED
+13,Linda "Lane Lover" Lewis,DragonWings Express,79467619,$100.03,UNLOADED AND NO REPLACEMENT
+14,Sandra "Semi Siren" Spencer,Starship Supplies,16525488,$391.94,UNLOADED AND NO REPLACEMENT
+15,Carla "Gearshift" Greene,DragonWings Express,66841560,$243.22,UNLOADED
+16,Carla "Gearshift" Greene,DragonWings Express,21949896,$258.33,UNLOADED
+17,Carla "Gearshift" Greene,DragonWings Express,38168313,$304.71,UNLOADED
+17,Pete "Payload" Patterson,NinjaNest Express,25796273,$223.88,UNLOADED AND NO REPLACEMENT
+18,Carla "Gearshift" Greene,DragonWings Express,74986577,$412.59,UNLOADED
+19,Carla "Gearshift" Greene,DragonWings Express,68160700,$339.10,UNLOADED
+20,Carla "Gearshift" Greene,DragonWings Express,59991652,$395.56,UNLOADED
+21,Carla "Gearshift" Greene,DragonWings Express,31976547,$308.83,UNLOADED
+21,Kim "Kilometer Queen" King,Loch Ness Logistics,04083648,$139.53,UNLOADED
+22,Carla "Gearshift" Greene,DragonWings Express,69135724,$445.89,UNLOADED
+22,Kim "Kilometer Queen" King,Loch Ness Logistics,89550243,$354.77,UNLOADED
+22,Ron "Road Roller" Robinson,MagicCarpet Couriers,52209087,$292.07,UNLOADED
+23,Carla "Gearshift" Greene,DragonWings Express,61795512,$461.79,UNLOADED
+23,Kim "Kilometer Queen" King,Loch Ness Logistics,35183529,$276.48,UNLOADED
+23,Ron "Road Roller" Robinson,MagicCarpet Couriers,85230756,$207.19,UNLOADED
+24,Carla "Gearshift" Greene,DragonWings Express,50834348,$244.90,UNLOADED AND NO REPLACEMENT
+24,Kim "Kilometer Queen" King,Loch Ness Logistics,78830575,$390.01,UNLOADED
+24,Ron "Road Roller" Robinson,MagicCarpet Couriers,42001053,$397.50,UNLOADED
+25,Kim "Kilometer Queen" King,Loch Ness Logistics,98521100,$419.32,UNLOADED
+25,Ron "Road Roller" Robinson,MagicCarpet Couriers,83933841,$371.30,UNLOADED
+26,Terry "Truckin' Terrier" Taylor,DinoDispatch,91719262,$123.39,UNLOADED
+26,Kim "Kilometer Queen" King,Loch Ness Logistics,27218088,$201.77,UNLOADED
+26,Ron "Road Roller" Robinson,MagicCarpet Couriers,38343155,$491.85,UNLOADED AND NO REPLACEMENT
+27,Terry "Truckin' Terrier" Taylor,DinoDispatch,71779582,$144.83,UNLOADED
+27,Kim "Kilometer Queen" King,Loch Ness Logistics,18633597,$65.95,UNLOADED
+28,Terry "Truckin' Terrier" Taylor,DinoDispatch,61686868,$380.20,UNLOADED AND NO REPLACEMENT
+28,Kim "Kilometer Queen" King,Loch Ness Logistics,48407473,$447.54,UNLOADED AND NO REPLACEMENT
+30,Bill "Big Hauler" Bennett,VikingVessel Deliveries,98523023,$337.93,UNLOADED
+31,Bill "Big Hauler" Bennett,VikingVessel Deliveries,92948575,$486.11,UNLOADED
+31,Ray "Roadway Ranger" Rogers,StellarDelivery,78692062,$488.78,UNLOADED
+32,Bill "Big Hauler" Bennett,VikingVessel Deliveries,66778331,$311.07,UNLOADED
+32,Ray "Roadway Ranger" Rogers,StellarDelivery,04387507,$466.37,UNLOADED
+32,Rachel "Ramp Runner" Ramirez,ZippityZoo Shipments,41666333,$103.85,UNLOADED
+33,Bill "Big Hauler" Bennett,VikingVessel Deliveries,72099524,$159.20,UNLOADED
+33,Ray "Roadway Ranger" Rogers,StellarDelivery,14166071,$253.61,UNLOADED
+33,Rachel "Ramp Runner" Ramirez,ZippityZoo Shipments,14614023,$183.02,UNLOADED
+34,Bill "Big Hauler" Bennett,VikingVessel Deliveries,40769739,$145.59,UNLOADED
+34,Ray "Roadway Ranger" Rogers,StellarDelivery,94215392,$187.60,UNLOADED
+34,Rachel "Ramp Runner" Ramirez,ZippityZoo Shipments,06026611,$221.05,UNLOADED
+35,Bill "Big Hauler" Bennett,VikingVessel Deliveries,98428895,$408.71,UNLOADED
+35,Ray "Roadway Ranger" Rogers,StellarDelivery,80885384,$216.19,UNLOADED
+35,Rachel "Ramp Runner" Ramirez,ZippityZoo Shipments,39328029,$153.56,UNLOADED
+36,Bill "Big Hauler" Bennett,VikingVessel Deliveries,42327607,$77.81,UNLOADED
+36,Ray "Roadway Ranger" Rogers,StellarDelivery,64870580,$160.23,UNLOADED
+36,Rachel "Ramp Runner" Ramirez,ZippityZoo Shipments,11454389,$311.34,UNLOADED
+37,Bill "Big Hauler" Bennett,VikingVessel Deliveries,37730642,$227.15,UNLOADED AND NO REPLACEMENT
+37,Ray "Roadway Ranger" Rogers,StellarDelivery,25415411,$186.83,UNLOADED AND NO REPLACEMENT
+37,Rachel "Ramp Runner" Ramirez,ZippityZoo Shipments,15997038,$426.40,UNLOADED
+38,Emily "Express Lane" Ellis,Leprechaun Logistics,81987003,$263.58,UNLOADED
+38,Lisa "Long Haul" Lawrence,FedExpress,90576162,$368.53,UNLOADED
+38,Rachel "Ramp Runner" Ramirez,ZippityZoo Shipments,71443999,$434.02,UNLOADED AND NO REPLACEMENT
+39,Emily "Express Lane" Ellis,Leprechaun Logistics,26900602,$497.38,UNLOADED
+39,Lisa "Long Haul" Lawrence,FedExpress,61320428,$67.38,UNLOADED
+40,Emily "Express Lane" Ellis,Leprechaun Logistics,23215375,$60.02,UNLOADED
+40,Lisa "Long Haul" Lawrence,FedExpress,66494250,$261.97,UNLOADED AND NO REPLACEMENT
+40,Rachel "Ramp Runner" Ramirez,TimeSleuth Deliveries,92913183,$412.16,UNLOADED
+41,Emily "Express Lane" Ellis,Leprechaun Logistics,60624086,$217.19,UNLOADED
+41,Rachel "Ramp Runner" Ramirez,TimeSleuth Deliveries,39096061,$159.76,UNLOADED
+42,Emily "Express Lane" Ellis,Leprechaun Logistics,21456821,$223.98,UNLOADED
+42,Rachel "Ramp Runner" Ramirez,TimeSleuth Deliveries,22676434,$479.07,UNLOADED
+43,Emily "Express Lane" Ellis,Leprechaun Logistics,52842245,$282.68,UNLOADED
+43,Rachel "Ramp Runner" Ramirez,TimeSleuth Deliveries,30840279,$411.60,UNLOADED
+44,Emily "Express Lane" Ellis,Leprechaun Logistics,18350179,$414.27,UNLOADED
+44,Rachel "Ramp Runner" Ramirez,TimeSleuth Deliveries,66876854,$384.51,UNLOADED
+45,Emily "Express Lane" Ellis,Leprechaun Logistics,61439134,$429.16,UNLOADED AND NO REPLACEMENT
+45,Rachel "Ramp Runner" Ramirez,TimeSleuth Deliveries,08364463,$286.52,UNLOADED
+46,Carla "Gearshift" Greene,Rainbow Courier,18834983,$217.20,UNLOADED
+46,Rachel "Ramp Runner" Ramirez,TimeSleuth Deliveries,74311824,$319.94,UNLOADED
+47,Carla "Gearshift" Greene,Rainbow Courier,96340712,$186.47,UNLOADED AND NO REPLACEMENT
+47,Rachel "Ramp Runner" Ramirez,TimeSleuth Deliveries,30775269,$459.30,UNLOADED AND NO REPLACEMENT
+0,Sandra "Semi Siren" Spencer,Boxzilla Shipping,98779594,$483.63,UNLOADED
+1,Sandra "Semi Siren" Spencer,Boxzilla Shipping,57649465,$356.78,UNLOADED
+2,Sandra "Semi Siren" Spencer,Boxzilla Shipping,34695888,$500.64,UNLOADED
+2,Steve "Silver Streak" Sullivan,ThunderTruck Express,10135941,$96.71,UNLOADED
+3,Sandra "Semi Siren" Spencer,Boxzilla Shipping,52103606,$419.33,UNLOADED
+3,Steve "Silver Streak" Sullivan,ThunderTruck Express,69021976,$140.01,UNLOADED
+4,Sandra "Semi Siren" Spencer,Boxzilla Shipping,09244123,$206.84,UNLOADED AND NO REPLACEMENT
+4,Steve "Silver Streak" Sullivan,ThunderTruck Express,37518117,$147.64,UNLOADED
+4,Gary "Gravel Grinder" Gordon,DinoDash Couriers,89816999,$426.02,UNLOADED
+5,Gary "Gravel Grinder" Gordon,DinoDispatch,37995571,$206.62,UNLOADED
+5,Steve "Silver Streak" Sullivan,ThunderTruck Express,30503701,$154.31,UNLOADED AND NO REPLACEMENT
+5,Gary "Gravel Grinder" Gordon,DinoDash Couriers,81351817,$403.01,UNLOADED
+6,Gary "Gravel Grinder" Gordon,DinoDispatch,52573652,$82.48,UNLOADED AND NO REPLACEMENT
+6,Gary "Gravel Grinder" Gordon,DinoDash Couriers,58202592,$381.53,UNLOADED
+7,Greg "Gritty Grind" Greene,MagicCarpet Couriers,85408841,$153.39,UNLOADED
+7,Gary "Gravel Grinder" Gordon,DinoDash Couriers,29169469,$198.70,UNLOADED
+8,Greg "Gritty Grind" Greene,MagicCarpet Couriers,75507710,$249.89,UNLOADED
+8,Gary "Gravel Grinder" Gordon,DinoDash Couriers,27391968,$367.00,UNLOADED
+9,Greg "Gritty Grind" Greene,MagicCarpet Couriers,42090706,$51.64,UNLOADED
+9,Gary "Gravel Grinder" Gordon,DinoDash Couriers,31572012,$201.70,UNLOADED
+10,Greg "Gritty Grind" Greene,MagicCarpet Couriers,70817420,$408.34,UNLOADED
+10,Gary "Gravel Grinder" Gordon,DinoDash Couriers,45561699,$148.60,UNLOADED AND NO REPLACEMENT
+11,Greg "Gritty Grind" Greene,MagicCarpet Couriers,81975664,$420.79,UNLOADED
+11,Cindy "Concrete Cowboy" Carter,StellarDelivery,63210615,$136.41,UNLOADED
+12,Greg "Gritty Grind" Greene,MagicCarpet Couriers,96936265,$332.49,UNLOADED
+12,Cindy "Concrete Cowboy" Carter,StellarDelivery,42714061,$418.56,UNLOADED
+12,Dennis "Driver Dragon" Davis,SpacePenguin Express,99807894,$352.21,UNLOADED
+13,Greg "Gritty Grind" Greene,MagicCarpet Couriers,40280527,$354.16,UNLOADED AND NO REPLACEMENT
+13,Cindy "Concrete Cowboy" Carter,StellarDelivery,57328477,$116.70,UNLOADED
+13,Dennis "Driver Dragon" Davis,SpacePenguin Express,85060190,$135.50,UNLOADED AND NO REPLACEMENT
+14,Cindy "Concrete Cowboy" Carter,StellarDelivery,48588084,$179.46,UNLOADED
+15,Cindy "Concrete Cowboy" Carter,StellarDelivery,25639063,$401.32,UNLOADED
+16,Dennis "Driver Dragon" Davis,VikingVessel Deliveries,73826299,$296.78,UNLOADED
+16,Cindy "Concrete Cowboy" Carter,StellarDelivery,56550898,$162.48,UNLOADED
+17,Dennis "Driver Dragon" Davis,VikingVessel Deliveries,85851046,$203.02,UNLOADED
+17,Cindy "Concrete Cowboy" Carter,StellarDelivery,55707883,$475.46,UNLOADED
+18,Dennis "Driver Dragon" Davis,VikingVessel Deliveries,91578593,$189.70,UNLOADED
+18,Cindy "Concrete Cowboy" Carter,StellarDelivery,43017066,$102.53,UNLOADED
+18,Ron "Road Roller" Robinson,PostMates Express,70317616,$188.85,UNLOADED
+19,Dennis "Driver Dragon" Davis,VikingVessel Deliveries,65995132,$198.90,UNLOADED
+19,Cindy "Concrete Cowboy" Carter,StellarDelivery,96116057,$435.48,UNLOADED
+19,Ron "Road Roller" Robinson,PostMates Express,19054529,$125.83,UNLOADED
+20,Dennis "Driver Dragon" Davis,VikingVessel Deliveries,85369333,$372.62,UNLOADED
+20,Cindy "Concrete Cowboy" Carter,StellarDelivery,24052397,$97.48,UNLOADED AND NO REPLACEMENT
+20,Ron "Road Roller" Robinson,PostMates Express,29407287,$84.25,UNLOADED
+21,Dennis "Driver Dragon" Davis,VikingVessel Deliveries,36959062,$374.44,UNLOADED
+21,Roger "Rubber Roadster" Reynolds,PurrfectParcel,01164662,$283.81,UNLOADED
+21,Ron "Road Roller" Robinson,PostMates Express,23292653,$297.55,UNLOADED
+22,Dennis "Driver Dragon" Davis,VikingVessel Deliveries,26788499,$295.37,UNLOADED
+22,Roger "Rubber Roadster" Reynolds,PurrfectParcel,11792166,$474.89,UNLOADED
+22,Ron "Road Roller" Robinson,PostMates Express,21484981,$152.08,UNLOADED
+23,Dennis "Driver Dragon" Davis,VikingVessel Deliveries,67707893,$56.28,UNLOADED AND NO REPLACEMENT
+23,Roger "Rubber Roadster" Reynolds,PurrfectParcel,41637248,$229.74,UNLOADED
+23,Ron "Road Roller" Robinson,PostMates Express,62017113,$417.24,UNLOADED
+24,Lisa "Long Haul" Lawrence,MagicCarpet Couriers,08986374,$403.03,UNLOADED AND NO REPLACEMENT
+24,Roger "Rubber Roadster" Reynolds,PurrfectParcel,17989063,$236.60,UNLOADED
+24,Ron "Road Roller" Robinson,PostMates Express,86636474,$214.36,UNLOADED AND NO REPLACEMENT
+25,Laura "Light Load" Lambert,SpacePenguin Express,09247719,$188.05,UNLOADED
+25,Roger "Rubber Roadster" Reynolds,PurrfectParcel,26804640,$118.20,UNLOADED
+25,Wendy "Wheels" Wilson,ZenZebra Deliveries,24142704,$434.59,UNLOADED
+26,Laura "Light Load" Lambert,SpacePenguin Express,19306772,$116.15,UNLOADED
+26,Roger "Rubber Roadster" Reynolds,PurrfectParcel,48171914,$369.86,UNLOADED
+26,Wendy "Wheels" Wilson,ZenZebra Deliveries,69989496,$269.66,UNLOADED
+27,Laura "Light Load" Lambert,SpacePenguin Express,51968409,$58.94,UNLOADED
+27,Roger "Rubber Roadster" Reynolds,PurrfectParcel,89458909,$301.85,UNLOADED AND NO REPLACEMENT
+27,Wendy "Wheels" Wilson,ZenZebra Deliveries,05515053,$90.47,UNLOADED
+28,Laura "Light Load" Lambert,SpacePenguin Express,31815488,$345.41,UNLOADED AND NO REPLACEMENT
+28,Dave "Freight Train" Foster,JollyRoger Delivery,56601904,$427.95,UNLOADED
+28,Wendy "Wheels" Wilson,ZenZebra Deliveries,78258804,$250.92,UNLOADED
+29,Angela "Axle Ace" Allen,SpacePenguin Express,68288326,$487.99,UNLOADED
+29,Dave "Freight Train" Foster,JollyRoger Delivery,47000995,$82.60,UNLOADED
+29,Wendy "Wheels" Wilson,ZenZebra Deliveries,91243119,$305.95,UNLOADED
+30,Angela "Axle Ace" Allen,SpacePenguin Express,41124509,$341.66,UNLOADED
+30,Dave "Freight Train" Foster,JollyRoger Delivery,19134937,$449.32,UNLOADED
+30,Wendy "Wheels" Wilson,ZenZebra Deliveries,23215405,$328.70,UNLOADED AND NO REPLACEMENT
+31,Angela "Axle Ace" Allen,SpacePenguin Express,27003474,$360.83,UNLOADED AND NO REPLACEMENT
+31,Dave "Freight Train" Foster,JollyRoger Delivery,84573738,$334.58,UNLOADED
+31,Linda "Lane Lover" Lewis,Loch Ness Logistics,24258925,$470.01,UNLOADED
+32,Laura "Light Load" Lambert,TimeSleuth Deliveries,13741926,$170.51,UNLOADED AND NO REPLACEMENT
+32,Dave "Freight Train" Foster,JollyRoger Delivery,69682098,$164.22,UNLOADED
+32,Linda "Lane Lover" Lewis,Loch Ness Logistics,44869984,$116.40,UNLOADED
+33,Doug "Dangerous Curve" Duncan,Sherlock Shipping,91823949,$306.84,UNLOADED
+33,Dave "Freight Train" Foster,JollyRoger Delivery,78777646,$379.79,UNLOADED AND NO REPLACEMENT
+33,Linda "Lane Lover" Lewis,Loch Ness Logistics,86062096,$251.60,UNLOADED
+34,Doug "Dangerous Curve" Duncan,Sherlock Shipping,68763103,$217.01,UNLOADED
+34,Linda "Lane Lover" Lewis,Loch Ness Logistics,17722497,$54.07,UNLOADED
+35,Doug "Dangerous Curve" Duncan,Sherlock Shipping,07188501,$328.05,UNLOADED
+35,Mark "Mud Mover" Morris,NinjaNest Express,58928250,$181.39,UNLOADED
+35,Linda "Lane Lover" Lewis,Loch Ness Logistics,27731502,$67.74,UNLOADED
+36,Doug "Dangerous Curve" Duncan,Sherlock Shipping,74286347,$215.73,UNLOADED
+36,Mark "Mud Mover" Morris,NinjaNest Express,03114444,$298.26,UNLOADED
+36,Linda "Lane Lover" Lewis,Loch Ness Logistics,47379506,$419.68,UNLOADED AND NO REPLACEMENT
+37,Doug "Dangerous Curve" Duncan,Sherlock Shipping,40107610,$464.26,UNLOADED
+37,Mark "Mud Mover" Morris,NinjaNest Express,75341612,$94.49,UNLOADED
+37,Andrea "Acceleration Ace" Adams,DragonWings Express,05419650,$413.73,UNLOADED
+38,Doug "Dangerous Curve" Duncan,Sherlock Shipping,08240168,$319.91,UNLOADED AND NO REPLACEMENT
+38,Mark "Mud Mover" Morris,NinjaNest Express,09349348,$466.91,UNLOADED
+38,Andrea "Acceleration Ace" Adams,DragonWings Express,95794518,$403.22,UNLOADED
+39,Mark "Mud Mover" Morris,NinjaNest Express,74149774,$167.43,UNLOADED
+39,Andrea "Acceleration Ace" Adams,DragonWings Express,59919134,$124.79,UNLOADED
+40,Mark "Mud Mover" Morris,NinjaNest Express,13670470,$337.80,UNLOADED
+40,Andrea "Acceleration Ace" Adams,DragonWings Express,13345813,$151.82,UNLOADED AND NO REPLACEMENT
+41,Mark "Mud Mover" Morris,NinjaNest Express,26586403,$367.70,UNLOADED AND NO REPLACEMENT

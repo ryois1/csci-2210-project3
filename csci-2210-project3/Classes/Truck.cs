@@ -4,17 +4,30 @@ using csci_2210_project3.Classes.Utilities;
 
 namespace csci_2210_project3.Classes
 {
+    /// <summary>
+    /// Class to represent a truck
+    /// </summary>
     public class Truck
     {
+        /// <summary>
+        /// The driver of the truck
+        /// </summary>
         public string driver { get; private set; }
+        /// <summary>
+        /// The company the truck is delivering for
+        /// </summary>
         public string deliveryCompany { get; private set; }
+        /// <summary>
+        /// The trucks trailer
+        /// </summary>
         public Stack<Crate> Trailer { get; private set; }
 
         /// <summary>
         /// Adds crate to the trailer stack
         /// </summary>
         /// <param name="crate"></param>
-        public void Load(Crate crate){
+        public void Load(Crate crate)
+        {
             Trailer.Push(crate);
         }
 
@@ -22,22 +35,30 @@ namespace csci_2210_project3.Classes
         /// Remove front crate, returns next crate
         /// </summary>
         /// <returns></returns>
-        public Crate Unload(){
+        public Crate Unload()
+        {
             Crate nextCrate = Trailer.Pop();
             return nextCrate;
         }
-
-        public Truck(){
+        /// <summary>
+        /// Constructor for the <see cref="Truck"/> class
+        /// </summary>
+        public Truck()
+        {
             driver = FakeNames.GetDriverName();
             deliveryCompany = FakeNames.GetCompanyName();
             Trailer = new Stack<Crate>();
             Random rand = new Random();
             int numberOfCrates = rand.Next(1, 11);
-            for(int i = 0; i < numberOfCrates; i++){
+            for (int i = 0; i < numberOfCrates; i++)
+            {
                 Trailer.Push(new Crate());
             }
         }
-
+        /// <summary>
+        /// override of the ToString method
+        /// </summary>
+        /// <returns>a <see cref="string">, the truck as a string</returns>
         public override string ToString() => $"{driver} from {deliveryCompany} has {Trailer.Count} crates";
     }
 }
