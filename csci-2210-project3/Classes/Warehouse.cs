@@ -1,3 +1,15 @@
+///////////////////////////////////////////////////////////////////////////////
+//
+// Authors: Brendan Dalhover <dalhover@etsu.edu>
+//          Jacob Hebert <hebertj@etsu.edu>
+//          Russell Payne <payner3@etsu.edu>
+//          Deep Desai <desaid@etsu.edu>
+// Course: CSCI-2210-001 - Data Structures
+// Assignment: Project 3 Warehouse Simulation
+// Description: This program simulates a warehouse to determine the optimal
+//             number of docks to have in the warehouse.
+//
+///////////////////////////////////////////////////////////////////////////////
 namespace csci_2210_project3.Classes
 {
     /// <summary>
@@ -37,7 +49,7 @@ namespace csci_2210_project3.Classes
         /// Runs the simulation
         /// </summary>
         /// <param name="simulationNumber">simulation to run</param>
-        public static void Run(int simulationNumber)
+        public static double Run(int simulationNumber)
         {
             Console.WriteLine($"Simulation {simulationNumber}. Warehouse has {simulationNumber} docks");
             Warehouse warehouse = new Warehouse(simulationNumber);
@@ -138,6 +150,10 @@ namespace csci_2210_project3.Classes
 
             System.Console.WriteLine($"Simulation {simulationNumber} complete. {totalDockCost.ToString("c")} in dock costs. {totalSales.ToString("c")} in sales. {totalCrates} crates unloaded across {warehouse.Docks.Count} docks.");
             System.Console.WriteLine($"There were {warehouse.Entrance.Count} trucks waiting to enter.");
+            double profit = totalSales - totalDockCost;
+            System.Console.WriteLine($"The warehouse made {profit.ToString("c")} in profit.");
+            DataExport.ExportData(new List<string>(new string[] { totalDockCost.ToString("c"), totalSales.ToString("c"), profit.ToString("c") }), simulationNumber);
+            return (double)profit;
 
         }
         /// <summary>

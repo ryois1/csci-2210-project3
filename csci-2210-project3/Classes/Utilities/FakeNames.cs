@@ -1,3 +1,15 @@
+///////////////////////////////////////////////////////////////////////////////
+//
+// Authors: Brendan Dalhover <dalhover@etsu.edu>
+//          Jacob Hebert <hebertj@etsu.edu>
+//          Russell Payne <payner3@etsu.edu>
+//          Deep Desai <desaid@etsu.edu>
+// Course: CSCI-2210-001 - Data Structures
+// Assignment: Project 3 Warehouse Simulation
+// Description: This program simulates a warehouse to determine the optimal
+//             number of docks to have in the warehouse.
+//
+///////////////////////////////////////////////////////////////////////////////
 namespace csci_2210_project3.Classes.Utilities{
     /// <summary>
     /// This class is used to get the fake names from the file for both the drivers and companies.
